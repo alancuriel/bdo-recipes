@@ -9142,5 +9142,53 @@
                 "amount": 1
             }
         ]
+    },
+    {
+        "id": "374",
+        "name": "Runn Light Fragment",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00005125.png",
+        "grade": 3,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5122",
+                "name": "Inextinguishable Stone",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005122.png",
+                "amount": 1
+            },
+            {
+                "id": "721009",
+                "name": "Stabilized Magical Black Stone",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00721009.png",
+                "amount": 1
+            },
+            {
+                "id": "721010",
+                "name": "Cleansed Magical Black Stone",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00721010.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "5125",
+                "name": "Runn Light Fragment",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005125.png",
+                "amount": 1
+            }
+        ]
     }
 ]
