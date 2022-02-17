@@ -1,6 +1,6 @@
 [
     {
-        "id": "106",
+        "id": 106,
         "name": "White Sauce",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009003.png",
         "grade": 0,
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "id": "107",
+        "id": 107,
         "name": "Red Sauce",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009004.png",
         "grade": 0,
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "id": "108",
+        "id": 108,
         "name": "Dressing",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009006.png",
         "grade": 0,
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "id": "109",
+        "id": 109,
         "name": "Essence of Liquor",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009057.png",
         "grade": 0,
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "id": "110",
+        "id": 110,
         "name": "Vinegar",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009066.png",
         "grade": 0,
@@ -272,7 +272,7 @@
         ]
     },
     {
-        "id": "111",
+        "id": 111,
         "name": "Fruit Wine",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009201.png",
         "grade": 1,
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "id": "112",
+        "id": 112,
         "name": "Pickled Vegetables",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009202.png",
         "grade": 1,
@@ -400,7 +400,7 @@
         ]
     },
     {
-        "id": "113",
+        "id": 113,
         "name": "Cheese Gratin",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009203.png",
         "grade": 1,
@@ -472,7 +472,7 @@
         ]
     },
     {
-        "id": "114",
+        "id": 114,
         "name": "Aloe Yogurt",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009204.png",
         "grade": 1,
@@ -536,7 +536,7 @@
         ]
     },
     {
-        "id": "115",
+        "id": 115,
         "name": "Aloe Cookie",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009205.png",
         "grade": 1,
@@ -600,7 +600,7 @@
         ]
     },
     {
-        "id": "116",
+        "id": 116,
         "name": "Honey Wine",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009206.png",
         "grade": 1,
@@ -664,7 +664,7 @@
         ]
     },
     {
-        "id": "117",
+        "id": 117,
         "name": "Sute Tea",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009207.png",
         "grade": 2,
@@ -728,7 +728,7 @@
         ]
     },
     {
-        "id": "118",
+        "id": 118,
         "name": "Fish Fillet Chips",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009208.png",
         "grade": 1,
@@ -792,7 +792,7 @@
         ]
     },
     {
-        "id": "119",
+        "id": 119,
         "name": "Assorted Side Dishes",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009209.png",
         "grade": 1,
@@ -856,7 +856,7 @@
         ]
     },
     {
-        "id": "120",
+        "id": 120,
         "name": "High-Quality Carrot Juice",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009210.png",
         "grade": 1,
@@ -912,7 +912,7 @@
         ]
     },
     {
-        "id": "121",
+        "id": 121,
         "name": "Special Carrot Juice",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009211.png",
         "grade": 2,
@@ -968,7 +968,7 @@
         ]
     },
     {
-        "id": "122",
+        "id": 122,
         "name": "Beer",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009213.png",
         "grade": 1,
@@ -1032,7 +1032,7 @@
         ]
     },
     {
-        "id": "123",
+        "id": 123,
         "name": "Stir-Fried Vegetables",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009241.png",
         "grade": 1,
@@ -1096,7 +1096,7 @@
         ]
     },
     {
-        "id": "124",
+        "id": 124,
         "name": "Grain Soup",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009255.png",
         "grade": 1,
@@ -1160,7 +1160,7 @@
         ]
     },
     {
-        "id": "125",
+        "id": 125,
         "name": "Fried Vegetables",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009256.png",
         "grade": 1,
@@ -1224,7 +1224,7 @@
         ]
     },
     {
-        "id": "126",
+        "id": 126,
         "name": "Fruit Juice",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009257.png",
         "grade": 1,
@@ -1288,7 +1288,7 @@
         ]
     },
     {
-        "id": "127",
+        "id": 127,
         "name": "Fruit and Vegetable Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009258.png",
         "grade": 1,
@@ -1352,7 +1352,7 @@
         ]
     },
     {
-        "id": "128",
+        "id": 128,
         "name": "Fruit Pudding",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009259.png",
         "grade": 1,
@@ -1416,7 +1416,7 @@
         ]
     },
     {
-        "id": "129",
+        "id": 129,
         "name": "Soft Bread",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009260.png",
         "grade": 1,
@@ -1480,7 +1480,7 @@
         ]
     },
     {
-        "id": "130",
+        "id": 130,
         "name": "Oatmeal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009261.png",
         "grade": 1,
@@ -1544,7 +1544,7 @@
         ]
     },
     {
-        "id": "131",
+        "id": 131,
         "name": "Exotic Herbal Wine",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009262.png",
         "grade": 1,
@@ -1608,7 +1608,7 @@
         ]
     },
     {
-        "id": "132",
+        "id": 132,
         "name": "Milk Tea",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009263.png",
         "grade": 2,
@@ -1672,7 +1672,7 @@
         ]
     },
     {
-        "id": "133",
+        "id": 133,
         "name": "Fruit Pie",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009264.png",
         "grade": 1,
@@ -1736,7 +1736,7 @@
         ]
     },
     {
-        "id": "134",
+        "id": 134,
         "name": "Meat Pie",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009265.png",
         "grade": 1,
@@ -1800,7 +1800,7 @@
         ]
     },
     {
-        "id": "136",
+        "id": 136,
         "name": "Ham Sandwich",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009267.png",
         "grade": 2,
@@ -1864,7 +1864,7 @@
         ]
     },
     {
-        "id": "137",
+        "id": 137,
         "name": "Cheese Pie",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009268.png",
         "grade": 1,
@@ -1928,7 +1928,7 @@
         ]
     },
     {
-        "id": "138",
+        "id": 138,
         "name": "Omelet",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009269.png",
         "grade": 1,
@@ -1992,7 +1992,7 @@
         ]
     },
     {
-        "id": "139",
+        "id": 139,
         "name": "Tea With Fine Scent",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009270.png",
         "grade": 1,
@@ -2056,7 +2056,7 @@
         ]
     },
     {
-        "id": "140",
+        "id": 140,
         "name": "Steak",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009401.png",
         "grade": 1,
@@ -2120,7 +2120,7 @@
         ]
     },
     {
-        "id": "141",
+        "id": 141,
         "name": "Boiled Bird Eggs",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009402.png",
         "grade": 1,
@@ -2184,7 +2184,7 @@
         ]
     },
     {
-        "id": "142",
+        "id": 142,
         "name": "Fried Bird",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009403.png",
         "grade": 1,
@@ -2248,7 +2248,7 @@
         ]
     },
     {
-        "id": "143",
+        "id": 143,
         "name": "Meat Croquette",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009404.png",
         "grade": 1,
@@ -2320,7 +2320,7 @@
         ]
     },
     {
-        "id": "144",
+        "id": 144,
         "name": "Steamed Bird",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009405.png",
         "grade": 1,
@@ -2392,7 +2392,7 @@
         ]
     },
     {
-        "id": "145",
+        "id": 145,
         "name": "Lizard Kebab",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009406.png",
         "grade": 1,
@@ -2456,7 +2456,7 @@
         ]
     },
     {
-        "id": "146",
+        "id": 146,
         "name": "Fried Fish",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009407.png",
         "grade": 1,
@@ -2512,7 +2512,7 @@
         ]
     },
     {
-        "id": "147",
+        "id": 147,
         "name": "Borscht",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009408.png",
         "grade": 1,
@@ -2576,7 +2576,7 @@
         ]
     },
     {
-        "id": "148",
+        "id": 148,
         "name": "Steamed Fish",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009409.png",
         "grade": 1,
@@ -2640,7 +2640,7 @@
         ]
     },
     {
-        "id": "149",
+        "id": 149,
         "name": "Desert Dumpling",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009410.png",
         "grade": 1,
@@ -2704,7 +2704,7 @@
         ]
     },
     {
-        "id": "150",
+        "id": 150,
         "name": "Steamed Seafood",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009411.png",
         "grade": 1,
@@ -2768,7 +2768,7 @@
         ]
     },
     {
-        "id": "151",
+        "id": 151,
         "name": "Pickled Fish",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009412.png",
         "grade": 1,
@@ -2832,7 +2832,7 @@
         ]
     },
     {
-        "id": "152",
+        "id": 152,
         "name": "Seafood Pasta",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009413.png",
         "grade": 1,
@@ -2896,7 +2896,7 @@
         ]
     },
     {
-        "id": "153",
+        "id": 153,
         "name": "Meat Stew",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009414.png",
         "grade": 1,
@@ -2960,7 +2960,7 @@
         ]
     },
     {
-        "id": "154",
+        "id": 154,
         "name": "Meat Sandwich",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009415.png",
         "grade": 1,
@@ -3024,7 +3024,7 @@
         ]
     },
     {
-        "id": "155",
+        "id": 155,
         "name": "Meat Pasta",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009416.png",
         "grade": 1,
@@ -3088,7 +3088,7 @@
         ]
     },
     {
-        "id": "156",
+        "id": 156,
         "name": "Smoked Fish Steak",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009417.png",
         "grade": 1,
@@ -3144,7 +3144,7 @@
         ]
     },
     {
-        "id": "157",
+        "id": 157,
         "name": "Fish Soup",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009418.png",
         "grade": 1,
@@ -3208,7 +3208,7 @@
         ]
     },
     {
-        "id": "158",
+        "id": 158,
         "name": "Seafood Mushroom Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009419.png",
         "grade": 1,
@@ -3264,7 +3264,7 @@
         ]
     },
     {
-        "id": "159",
+        "id": 159,
         "name": "Stir-Fried Seafood",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009420.png",
         "grade": 1,
@@ -3328,7 +3328,7 @@
         ]
     },
     {
-        "id": "160",
+        "id": 160,
         "name": "Seafood Grilled with Butter",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009421.png",
         "grade": 1,
@@ -3392,7 +3392,7 @@
         ]
     },
     {
-        "id": "161",
+        "id": 161,
         "name": "Dark Pudding",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009422.png",
         "grade": 2,
@@ -3456,7 +3456,7 @@
         ]
     },
     {
-        "id": "162",
+        "id": 162,
         "name": "Fish Fillet Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009423.png",
         "grade": 1,
@@ -3520,7 +3520,7 @@
         ]
     },
     {
-        "id": "163",
+        "id": 163,
         "name": "Meat Soup",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009424.png",
         "grade": 1,
@@ -3584,7 +3584,7 @@
         ]
     },
     {
-        "id": "164",
+        "id": 164,
         "name": "Lean Meat Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009425.png",
         "grade": 1,
@@ -3648,7 +3648,7 @@
         ]
     },
     {
-        "id": "165",
+        "id": 165,
         "name": "Stir-Fried Meat",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009426.png",
         "grade": 1,
@@ -3712,7 +3712,7 @@
         ]
     },
     {
-        "id": "166",
+        "id": 166,
         "name": "Grilled Sausage",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009427.png",
         "grade": 1,
@@ -3776,7 +3776,7 @@
         ]
     },
     {
-        "id": "167",
+        "id": 167,
         "name": "Steamed Whale Meat",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009455.png",
         "grade": 1,
@@ -3848,7 +3848,7 @@
         ]
     },
     {
-        "id": "168",
+        "id": 168,
         "name": "Whale Meat Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009456.png",
         "grade": 1,
@@ -3920,7 +3920,7 @@
         ]
     },
     {
-        "id": "169",
+        "id": 169,
         "name": "Balenos Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009601.png",
         "grade": 3,
@@ -3992,7 +3992,7 @@
         ]
     },
     {
-        "id": "170",
+        "id": 170,
         "name": "Serendia Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009603.png",
         "grade": 3,
@@ -4064,7 +4064,7 @@
         ]
     },
     {
-        "id": "171",
+        "id": 171,
         "name": "Calpheon Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009605.png",
         "grade": 3,
@@ -4136,7 +4136,7 @@
         ]
     },
     {
-        "id": "172",
+        "id": 172,
         "name": "Mediah Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009607.png",
         "grade": 3,
@@ -4208,7 +4208,7 @@
         ]
     },
     {
-        "id": "173",
+        "id": 173,
         "name": "Knight Combat Rations",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009631.png",
         "grade": 3,
@@ -4264,7 +4264,7 @@
         ]
     },
     {
-        "id": "174",
+        "id": 174,
         "name": "Good Feed",
         "icon": "/items/new_icon/03_etc/09_petitem/00054017.png",
         "grade": 1,
@@ -4320,7 +4320,7 @@
         ]
     },
     {
-        "id": "175",
+        "id": 175,
         "name": "Organic Feed",
         "icon": "/items/new_icon/03_etc/09_petitem/00054018.png",
         "grade": 1,
@@ -4376,7 +4376,7 @@
         ]
     },
     {
-        "id": "176",
+        "id": 176,
         "name": "Honeycomb Cookie",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009266.png",
         "grade": 1,
@@ -4440,7 +4440,7 @@
         ]
     },
     {
-        "id": "177",
+        "id": 177,
         "name": "Organic Feed",
         "icon": "/items/new_icon/03_etc/09_petitem/00054018.png",
         "grade": 1,
@@ -4496,7 +4496,7 @@
         ]
     },
     {
-        "id": "135",
+        "id": 135,
         "name": "Honeycomb Cookie",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009266.png",
         "grade": 1,
@@ -4560,7 +4560,7 @@
         ]
     },
     {
-        "id": "184",
+        "id": 184,
         "name": "Coconut Cocktail",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009307.png",
         "grade": 1,
@@ -4632,7 +4632,7 @@
         ]
     },
     {
-        "id": "185",
+        "id": 185,
         "name": "Coconut Pasta",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009308.png",
         "grade": 1,
@@ -4704,7 +4704,7 @@
         ]
     },
     {
-        "id": "186",
+        "id": 186,
         "name": "Coconut Fried Fish",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009309.png",
         "grade": 1,
@@ -4776,7 +4776,7 @@
         ]
     },
     {
-        "id": "187",
+        "id": 187,
         "name": "Hunter's Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009459.png",
         "grade": 2,
@@ -4840,7 +4840,7 @@
         ]
     },
     {
-        "id": "188",
+        "id": 188,
         "name": "Khalk's Fermented Wine",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009469.png",
         "grade": 3,
@@ -4912,7 +4912,7 @@
         ]
     },
     {
-        "id": "189",
+        "id": 189,
         "name": "Special Arehaza Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009632.png",
         "grade": 3,
@@ -4976,7 +4976,7 @@
         ]
     },
     {
-        "id": "190",
+        "id": 190,
         "name": "Valencia Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009609.png",
         "grade": 3,
@@ -5048,7 +5048,7 @@
         ]
     },
     {
-        "id": "193",
+        "id": 193,
         "name": "King of Jungle Hamburg",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009463.png",
         "grade": 2,
@@ -5112,7 +5112,7 @@
         ]
     },
     {
-        "id": "194",
+        "id": 194,
         "name": "Teff Bread",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009214.png",
         "grade": 1,
@@ -5176,7 +5176,7 @@
         ]
     },
     {
-        "id": "195",
+        "id": 195,
         "name": "Couscous",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009220.png",
         "grade": 2,
@@ -5240,7 +5240,7 @@
         ]
     },
     {
-        "id": "196",
+        "id": 196,
         "name": "Teff Sandwich",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009218.png",
         "grade": 2,
@@ -5304,7 +5304,7 @@
         ]
     },
     {
-        "id": "197",
+        "id": 197,
         "name": "Grilled Scorpion",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009461.png",
         "grade": 2,
@@ -5368,7 +5368,7 @@
         ]
     },
     {
-        "id": "198",
+        "id": 198,
         "name": "Fig Pie",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009216.png",
         "grade": 1,
@@ -5432,7 +5432,7 @@
         ]
     },
     {
-        "id": "199",
+        "id": 199,
         "name": "Freekeh Snake Stew",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009215.png",
         "grade": 1,
@@ -5496,7 +5496,7 @@
         ]
     },
     {
-        "id": "200",
+        "id": 200,
         "name": "Date Palm Wine",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009219.png",
         "grade": 1,
@@ -5560,7 +5560,7 @@
         ]
     },
     {
-        "id": "204",
+        "id": 204,
         "name": "Beer",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009213.png",
         "grade": 1,
@@ -5624,7 +5624,7 @@
         ]
     },
     {
-        "id": "205",
+        "id": 205,
         "name": "Pan-Fried Oyster",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009475.png",
         "grade": 1,
@@ -5696,7 +5696,7 @@
         ]
     },
     {
-        "id": "206",
+        "id": 206,
         "name": "Hard-Boiled Shellfish",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009479.png",
         "grade": 1,
@@ -5768,7 +5768,7 @@
         ]
     },
     {
-        "id": "208",
+        "id": 208,
         "name": "Pistachio Fried Rice",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009217.png",
         "grade": 1,
@@ -5832,7 +5832,7 @@
         ]
     },
     {
-        "id": "209",
+        "id": 209,
         "name": "Prawn Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009471.png",
         "grade": 1,
@@ -5904,7 +5904,7 @@
         ]
     },
     {
-        "id": "210",
+        "id": 210,
         "name": "Steamed Prawn",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009473.png",
         "grade": 1,
@@ -5976,7 +5976,7 @@
         ]
     },
     {
-        "id": "211",
+        "id": 211,
         "name": "Butter-Roasted Lobster",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009477.png",
         "grade": 1,
@@ -6048,7 +6048,7 @@
         ]
     },
     {
-        "id": "212",
+        "id": 212,
         "name": "Margoria Seafood Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009634.png",
         "grade": 3,
@@ -6112,7 +6112,7 @@
         ]
     },
     {
-        "id": "331",
+        "id": 331,
         "name": "Hunter's Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009459.png",
         "grade": 2,
@@ -6176,7 +6176,7 @@
         ]
     },
     {
-        "id": "213",
+        "id": 213,
         "name": "Rainbow Button Mushroom Sandwich",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009316.png",
         "grade": 1,
@@ -6248,7 +6248,7 @@
         ]
     },
     {
-        "id": "214",
+        "id": 214,
         "name": "Rainbow Button Mushroom Cheese Melt",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009483.png",
         "grade": 1,
@@ -6320,7 +6320,7 @@
         ]
     },
     {
-        "id": "215",
+        "id": 215,
         "name": "Kamasylvia Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009635.png",
         "grade": 3,
@@ -6392,7 +6392,7 @@
         ]
     },
     {
-        "id": "221",
+        "id": 221,
         "name": "Hard-boiled Gargoyle Leg",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009465.png",
         "grade": 1,
@@ -6464,7 +6464,7 @@
         ]
     },
     {
-        "id": "222",
+        "id": 222,
         "name": "Stir-fried Gazelle Hind Leg",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009466.png",
         "grade": 1,
@@ -6536,7 +6536,7 @@
         ]
     },
     {
-        "id": "225",
+        "id": 225,
         "name": "Sweet Honey Wine",
         "icon": "/items/new_icon/03_etc/09_petitem/00054030.png",
         "grade": 2,
@@ -6592,7 +6592,7 @@
         ]
     },
     {
-        "id": "226",
+        "id": 226,
         "name": "Grilled Bird Meat",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009492.png",
         "grade": 1,
@@ -6656,7 +6656,7 @@
         ]
     },
     {
-        "id": "227",
+        "id": 227,
         "name": "Five-Grain Chicken Porridge",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009494.png",
         "grade": 1,
@@ -6712,7 +6712,7 @@
         ]
     },
     {
-        "id": "229",
+        "id": 229,
         "name": "Roast Marmot",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009488.png",
         "grade": 1,
@@ -6784,7 +6784,7 @@
         ]
     },
     {
-        "id": "230",
+        "id": 230,
         "name": "Ghormeh Sabzi",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009486.png",
         "grade": 1,
@@ -6856,7 +6856,7 @@
         ]
     },
     {
-        "id": "231",
+        "id": 231,
         "name": "Skewered Llama Cheese Melt",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009490.png",
         "grade": 1,
@@ -6928,7 +6928,7 @@
         ]
     },
     {
-        "id": "232",
+        "id": 232,
         "name": "Stir-Fried Bracken",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009318.png",
         "grade": 1,
@@ -7000,7 +7000,7 @@
         ]
     },
     {
-        "id": "233",
+        "id": 233,
         "name": "Special Drieghanese Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009637.png",
         "grade": 3,
@@ -7064,7 +7064,7 @@
         ]
     },
     {
-        "id": "235",
+        "id": 235,
         "name": "Special Drieghanese Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009637.png",
         "grade": 3,
@@ -7128,7 +7128,7 @@
         ]
     },
     {
-        "id": "341",
+        "id": 341,
         "name": "Savory Steak",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009496.png",
         "grade": 2,
@@ -7184,7 +7184,7 @@
         ]
     },
     {
-        "id": "347",
+        "id": 347,
         "name": "Carrot Confit",
         "icon": "/items/new_icon/03_etc/09_petitem/00009321.png",
         "grade": 3,
@@ -7248,7 +7248,7 @@
         ]
     },
     {
-        "id": "348",
+        "id": 348,
         "name": "Carrot Confit",
         "icon": "/items/new_icon/03_etc/09_petitem/00009321.png",
         "grade": 3,
@@ -7312,7 +7312,7 @@
         ]
     },
     {
-        "id": "349",
+        "id": 349,
         "name": "Chowder",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006394.png",
         "grade": 2,
@@ -7376,7 +7376,7 @@
         ]
     },
     {
-        "id": "351",
+        "id": 351,
         "name": "Stir-Fried Vegetables",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009241.png",
         "grade": 1,
@@ -7440,7 +7440,7 @@
         ]
     },
     {
-        "id": "352",
+        "id": 352,
         "name": "Stir-Fried Bird",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009331.png",
         "grade": 1,
@@ -7504,7 +7504,7 @@
         ]
     },
     {
-        "id": "353",
+        "id": 353,
         "name": "Stir-Fried Bird",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009331.png",
         "grade": 1,
@@ -7568,7 +7568,7 @@
         ]
     },
     {
-        "id": "354",
+        "id": 354,
         "name": "Chicken Breast Salad",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009335.png",
         "grade": 1,
@@ -7640,7 +7640,7 @@
         ]
     },
     {
-        "id": "355",
+        "id": 355,
         "name": "Delotia Juice",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009327.png",
         "grade": 1,
@@ -7704,7 +7704,7 @@
         ]
     },
     {
-        "id": "356",
+        "id": 356,
         "name": "Delotia Juice",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009327.png",
         "grade": 1,
@@ -7768,7 +7768,7 @@
         ]
     },
     {
-        "id": "357",
+        "id": 357,
         "name": "Delotia Milk Tea",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009329.png",
         "grade": 1,
@@ -7832,7 +7832,7 @@
         ]
     },
     {
-        "id": "358",
+        "id": 358,
         "name": "Delotia Tart",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009323.png",
         "grade": 1,
@@ -7904,7 +7904,7 @@
         ]
     },
     {
-        "id": "359",
+        "id": 359,
         "name": "Delotia Pudding",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009325.png",
         "grade": 2,
@@ -7976,7 +7976,7 @@
         ]
     },
     {
-        "id": "360",
+        "id": 360,
         "name": "Frank Sandwich",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009337.png",
         "grade": 2,
@@ -8040,7 +8040,7 @@
         ]
     },
     {
-        "id": "361",
+        "id": 361,
         "name": "Frank Sandwich",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009337.png",
         "grade": 2,
@@ -8104,7 +8104,7 @@
         ]
     },
     {
-        "id": "362",
+        "id": 362,
         "name": "Stir-Fried Bracken and Meat",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009333.png",
         "grade": 2,
@@ -8176,7 +8176,7 @@
         ]
     },
     {
-        "id": "363",
+        "id": 363,
         "name": "O'dyllita Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009638.png",
         "grade": 3,
@@ -8248,7 +8248,7 @@
         ]
     },
     {
-        "id": "364",
+        "id": 364,
         "name": "O'dyllita Meal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009638.png",
         "grade": 3,

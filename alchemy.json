@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "Elixir of Amity",
         "icon": "/items/new_icon/03_etc/08_potion/00000664.png",
         "grade": 1,
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Resurrection Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000668.png",
         "grade": 1,
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Elixir of Human Hunt",
         "icon": "/items/new_icon/03_etc/08_potion/00000670.png",
         "grade": 1,
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Elixir of Frenzy",
         "icon": "/items/new_icon/03_etc/08_potion/00000672.png",
         "grade": 1,
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Golden Hand Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000674.png",
         "grade": 1,
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "Elixir of Draining",
         "icon": "/items/new_icon/03_etc/08_potion/00000676.png",
         "grade": 1,
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "id": "8",
+        "id": 8,
         "name": "Elixir of Demihuman Hunt",
         "icon": "/items/new_icon/03_etc/08_potion/00000678.png",
         "grade": 1,
@@ -472,7 +472,7 @@
         ]
     },
     {
-        "id": "9",
+        "id": 9,
         "name": "Elixir of Perforation",
         "icon": "/items/new_icon/03_etc/08_potion/00000680.png",
         "grade": 1,
@@ -544,7 +544,7 @@
         ]
     },
     {
-        "id": "10",
+        "id": 10,
         "name": "Elixir of Energy",
         "icon": "/items/new_icon/03_etc/08_potion/00000682.png",
         "grade": 1,
@@ -608,7 +608,7 @@
         ]
     },
     {
-        "id": "11",
+        "id": 11,
         "name": "Elixir of Wings",
         "icon": "/items/new_icon/03_etc/08_potion/00000684.png",
         "grade": 1,
@@ -672,7 +672,7 @@
         ]
     },
     {
-        "id": "12",
+        "id": 12,
         "name": "Elixir of Death",
         "icon": "/items/new_icon/03_etc/08_potion/00000686.png",
         "grade": 1,
@@ -744,7 +744,7 @@
         ]
     },
     {
-        "id": "13",
+        "id": 13,
         "name": "Elixir of Wind",
         "icon": "/items/new_icon/03_etc/08_potion/00000688.png",
         "grade": 1,
@@ -808,7 +808,7 @@
         ]
     },
     {
-        "id": "14",
+        "id": 14,
         "name": "Elixir of Swiftness",
         "icon": "/items/new_icon/03_etc/08_potion/00000690.png",
         "grade": 1,
@@ -872,7 +872,7 @@
         ]
     },
     {
-        "id": "15",
+        "id": 15,
         "name": "Elixir of Spells",
         "icon": "/items/new_icon/03_etc/08_potion/00000692.png",
         "grade": 1,
@@ -936,7 +936,7 @@
         ]
     },
     {
-        "id": "16",
+        "id": 16,
         "name": "Elixir of Seal",
         "icon": "/items/new_icon/03_etc/08_potion/00000694.png",
         "grade": 1,
@@ -1000,7 +1000,7 @@
         ]
     },
     {
-        "id": "17",
+        "id": 17,
         "name": "Elixir of Assassination",
         "icon": "/items/new_icon/03_etc/08_potion/00000696.png",
         "grade": 1,
@@ -1072,7 +1072,7 @@
         ]
     },
     {
-        "id": "18",
+        "id": 18,
         "name": "Elixir of Detection",
         "icon": "/items/new_icon/03_etc/08_potion/00000698.png",
         "grade": 1,
@@ -1144,7 +1144,7 @@
         ]
     },
     {
-        "id": "19",
+        "id": 19,
         "name": "Elixir of Concentration",
         "icon": "/items/new_icon/03_etc/08_potion/00000700.png",
         "grade": 1,
@@ -1208,7 +1208,7 @@
         ]
     },
     {
-        "id": "20",
+        "id": 20,
         "name": "Elixir of Will",
         "icon": "/items/new_icon/03_etc/08_potion/00000702.png",
         "grade": 1,
@@ -1272,7 +1272,7 @@
         ]
     },
     {
-        "id": "21",
+        "id": 21,
         "name": "Elixir of Fury",
         "icon": "/items/new_icon/03_etc/08_potion/00000704.png",
         "grade": 1,
@@ -1336,7 +1336,7 @@
         ]
     },
     {
-        "id": "22",
+        "id": 22,
         "name": "Elixir of Resistance",
         "icon": "/items/new_icon/03_etc/08_potion/00000706.png",
         "grade": 1,
@@ -1400,7 +1400,7 @@
         ]
     },
     {
-        "id": "23",
+        "id": 23,
         "name": "Elixir of Life",
         "icon": "/items/new_icon/03_etc/08_potion/00000708.png",
         "grade": 1,
@@ -1464,7 +1464,7 @@
         ]
     },
     {
-        "id": "24",
+        "id": 24,
         "name": "Elixir of Mentality",
         "icon": "/items/new_icon/03_etc/08_potion/00000710.png",
         "grade": 1,
@@ -1528,7 +1528,7 @@
         ]
     },
     {
-        "id": "25",
+        "id": 25,
         "name": "Grim Reaper's Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000712.png",
         "grade": 1,
@@ -1600,7 +1600,7 @@
         ]
     },
     {
-        "id": "26",
+        "id": 26,
         "name": "EXP Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000714.png",
         "grade": 1,
@@ -1664,7 +1664,7 @@
         ]
     },
     {
-        "id": "27",
+        "id": 27,
         "name": "Defense Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000716.png",
         "grade": 1,
@@ -1728,7 +1728,7 @@
         ]
     },
     {
-        "id": "28",
+        "id": 28,
         "name": "Elixir of Carnage",
         "icon": "/items/new_icon/03_etc/08_potion/00000718.png",
         "grade": 1,
@@ -1800,7 +1800,7 @@
         ]
     },
     {
-        "id": "29",
+        "id": 29,
         "name": "Elixir of Sky",
         "icon": "/items/new_icon/03_etc/08_potion/00000720.png",
         "grade": 1,
@@ -1872,7 +1872,7 @@
         ]
     },
     {
-        "id": "30",
+        "id": 30,
         "name": "Elixir of Endurance",
         "icon": "/items/new_icon/03_etc/08_potion/00000722.png",
         "grade": 1,
@@ -1936,7 +1936,7 @@
         ]
     },
     {
-        "id": "31",
+        "id": 31,
         "name": "Worker's Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000724.png",
         "grade": 1,
@@ -2000,7 +2000,7 @@
         ]
     },
     {
-        "id": "32",
+        "id": 32,
         "name": "Fisher's Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000726.png",
         "grade": 1,
@@ -2064,7 +2064,7 @@
         ]
     },
     {
-        "id": "33",
+        "id": 33,
         "name": "Elixir of Burn Removal",
         "icon": "/items/new_icon/03_etc/08_potion/00000728.png",
         "grade": 1,
@@ -2120,7 +2120,7 @@
         ]
     },
     {
-        "id": "34",
+        "id": 34,
         "name": "Antidote Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000729.png",
         "grade": 1,
@@ -2176,7 +2176,7 @@
         ]
     },
     {
-        "id": "35",
+        "id": 35,
         "name": "Elixir of Hemostasis",
         "icon": "/items/new_icon/03_etc/08_potion/00000730.png",
         "grade": 1,
@@ -2232,7 +2232,7 @@
         ]
     },
     {
-        "id": "36",
+        "id": 36,
         "name": "Metal Solvent",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00004076.png",
         "grade": 0,
@@ -2288,7 +2288,7 @@
         ]
     },
     {
-        "id": "37",
+        "id": 37,
         "name": "Gem Polisher",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00004481.png",
         "grade": 0,
@@ -2344,7 +2344,7 @@
         ]
     },
     {
-        "id": "38",
+        "id": 38,
         "name": "Plywood Hardener",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00004684.png",
         "grade": 0,
@@ -2400,7 +2400,7 @@
         ]
     },
     {
-        "id": "39",
+        "id": 39,
         "name": "Essence of Crimson Flame",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005202.png",
         "grade": 0,
@@ -2456,7 +2456,7 @@
         ]
     },
     {
-        "id": "40",
+        "id": 40,
         "name": "Essence of Abundance",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005204.png",
         "grade": 0,
@@ -2512,7 +2512,7 @@
         ]
     },
     {
-        "id": "41",
+        "id": 41,
         "name": "Essence of Nature",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005206.png",
         "grade": 0,
@@ -2568,7 +2568,7 @@
         ]
     },
     {
-        "id": "42",
+        "id": 42,
         "name": "Essence of the Sun",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005208.png",
         "grade": 0,
@@ -2624,7 +2624,7 @@
         ]
     },
     {
-        "id": "43",
+        "id": 43,
         "name": "Essence of Enchantment",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005210.png",
         "grade": 0,
@@ -2680,7 +2680,7 @@
         ]
     },
     {
-        "id": "44",
+        "id": 44,
         "name": "Essence of Magic Power",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005212.png",
         "grade": 0,
@@ -2736,7 +2736,7 @@
         ]
     },
     {
-        "id": "45",
+        "id": 45,
         "name": "Essence of Perfection",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005214.png",
         "grade": 0,
@@ -2792,7 +2792,7 @@
         ]
     },
     {
-        "id": "46",
+        "id": 46,
         "name": "Essence of Destruction",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005216.png",
         "grade": 0,
@@ -2848,7 +2848,7 @@
         ]
     },
     {
-        "id": "47",
+        "id": 47,
         "name": "Clear Liquid Reagent",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
         "grade": 0,
@@ -2904,7 +2904,7 @@
         ]
     },
     {
-        "id": "48",
+        "id": 48,
         "name": "Pure Powder Reagent",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.png",
         "grade": 0,
@@ -2960,7 +2960,7 @@
         ]
     },
     {
-        "id": "49",
+        "id": 49,
         "name": "Herbal Poison",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005603.png",
         "grade": 0,
@@ -3000,7 +3000,7 @@
         ]
     },
     {
-        "id": "50",
+        "id": 50,
         "name": "Herbal Gunpowder",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005604.png",
         "grade": 0,
@@ -3040,7 +3040,7 @@
         ]
     },
     {
-        "id": "51",
+        "id": 51,
         "name": "Leather Glaze",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006183.png",
         "grade": 0,
@@ -3096,7 +3096,7 @@
         ]
     },
     {
-        "id": "52",
+        "id": 52,
         "name": "Legendary Beast's Blood",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006351.png",
         "grade": 0,
@@ -3152,7 +3152,7 @@
         ]
     },
     {
-        "id": "53",
+        "id": 53,
         "name": "Tyrant's Blood",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006352.png",
         "grade": 0,
@@ -3208,7 +3208,7 @@
         ]
     },
     {
-        "id": "54",
+        "id": 54,
         "name": "Clown's Blood",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006353.png",
         "grade": 0,
@@ -3264,7 +3264,7 @@
         ]
     },
     {
-        "id": "55",
+        "id": 55,
         "name": "Sinner's Blood",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006354.png",
         "grade": 0,
@@ -3320,7 +3320,7 @@
         ]
     },
     {
-        "id": "56",
+        "id": 56,
         "name": "Wise Man's Blood",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006355.png",
         "grade": 0,
@@ -3376,7 +3376,7 @@
         ]
     },
     {
-        "id": "57",
+        "id": 57,
         "name": "Oil of Regeneration",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006601.png",
         "grade": 0,
@@ -3432,7 +3432,7 @@
         ]
     },
     {
-        "id": "58",
+        "id": 58,
         "name": "Oil of Storms",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006602.png",
         "grade": 0,
@@ -3488,7 +3488,7 @@
         ]
     },
     {
-        "id": "59",
+        "id": 59,
         "name": "Oil of Fortitude",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006603.png",
         "grade": 0,
@@ -3544,7 +3544,7 @@
         ]
     },
     {
-        "id": "60",
+        "id": 60,
         "name": "Oil of Corruption",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006604.png",
         "grade": 0,
@@ -3600,7 +3600,7 @@
         ]
     },
     {
-        "id": "61",
+        "id": 61,
         "name": "Oil of Tranquility",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006605.png",
         "grade": 0,
@@ -3656,7 +3656,7 @@
         ]
     },
     {
-        "id": "62",
+        "id": 62,
         "name": "Magic Crystal of Infinity - Precision",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.png",
         "grade": 2,
@@ -3720,7 +3720,7 @@
         ]
     },
     {
-        "id": "63",
+        "id": 63,
         "name": "Magic Crystal of Infinity - Power",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.png",
         "grade": 2,
@@ -3784,7 +3784,7 @@
         ]
     },
     {
-        "id": "64",
+        "id": 64,
         "name": "Magic Crystal of Infinity - Carnage",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045003_0.png",
         "grade": 2,
@@ -3848,7 +3848,7 @@
         ]
     },
     {
-        "id": "65",
+        "id": 65,
         "name": "Magic Crystal of Infinity - Carnage",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045004_0.png",
         "grade": 2,
@@ -3912,7 +3912,7 @@
         ]
     },
     {
-        "id": "66",
+        "id": 66,
         "name": "Magic Crystal of Infinity - Carnage",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045005_0.png",
         "grade": 2,
@@ -3976,7 +3976,7 @@
         ]
     },
     {
-        "id": "67",
+        "id": 67,
         "name": "Magic Crystal of Infinity - Armor",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045011_0.png",
         "grade": 2,
@@ -4040,7 +4040,7 @@
         ]
     },
     {
-        "id": "68",
+        "id": 68,
         "name": "Magic Crystal of Infinity - Vigor",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045012_5.png",
         "grade": 2,
@@ -4104,7 +4104,7 @@
         ]
     },
     {
-        "id": "69",
+        "id": 69,
         "name": "Magic Crystal of Infinity - Patience",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045013_5.png",
         "grade": 2,
@@ -4168,7 +4168,7 @@
         ]
     },
     {
-        "id": "70",
+        "id": 70,
         "name": "Magic Crystal of Infinity - Heal",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045014_5.png",
         "grade": 2,
@@ -4232,7 +4232,7 @@
         ]
     },
     {
-        "id": "71",
+        "id": 71,
         "name": "Magic Crystal of Infinity - Resonance",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045015_5.png",
         "grade": 2,
@@ -4296,7 +4296,7 @@
         ]
     },
     {
-        "id": "72",
+        "id": 72,
         "name": "Magic Crystal of Infinity - Swiftness",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045021_8.png",
         "grade": 2,
@@ -4360,7 +4360,7 @@
         ]
     },
     {
-        "id": "73",
+        "id": 73,
         "name": "Magic Crystal of Infinity - Adamantine",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045022_8.png",
         "grade": 2,
@@ -4424,7 +4424,7 @@
         ]
     },
     {
-        "id": "74",
+        "id": 74,
         "name": "Magic Crystal of Infinity - Ascension",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045023_8.png",
         "grade": 2,
@@ -4488,7 +4488,7 @@
         ]
     },
     {
-        "id": "75",
+        "id": 75,
         "name": "Magic Crystal of Infinity - Descent",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045022_8.png",
         "grade": 2,
@@ -4552,7 +4552,7 @@
         ]
     },
     {
-        "id": "76",
+        "id": 76,
         "name": "Magic Crystal of Infinity - Endurance",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045023_8.png",
         "grade": 2,
@@ -4616,7 +4616,7 @@
         ]
     },
     {
-        "id": "77",
+        "id": 77,
         "name": "Magic Crystal of Infinity - Assault",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045031_7.png",
         "grade": 2,
@@ -4680,7 +4680,7 @@
         ]
     },
     {
-        "id": "78",
+        "id": 78,
         "name": "Magic Crystal of Infinity - Sturdiness",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045032_7.png",
         "grade": 2,
@@ -4744,7 +4744,7 @@
         ]
     },
     {
-        "id": "79",
+        "id": 79,
         "name": "Magic Crystal of Infinity - Valor",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045033_7.png",
         "grade": 2,
@@ -4808,7 +4808,7 @@
         ]
     },
     {
-        "id": "80",
+        "id": 80,
         "name": "Magic Crystal of Infinity - Precision",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045032_7.png",
         "grade": 2,
@@ -4872,7 +4872,7 @@
         ]
     },
     {
-        "id": "81",
+        "id": 81,
         "name": "Magic Crystal of Infinity - Memory",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045041_3.png",
         "grade": 2,
@@ -4936,7 +4936,7 @@
         ]
     },
     {
-        "id": "82",
+        "id": 82,
         "name": "Magic Crystal of Infinity - Intimidation",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045042_3.png",
         "grade": 2,
@@ -5000,7 +5000,7 @@
         ]
     },
     {
-        "id": "83",
+        "id": 83,
         "name": "Magic Crystal of Infinity - Vision",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045043_3.png",
         "grade": 2,
@@ -5064,7 +5064,7 @@
         ]
     },
     {
-        "id": "84",
+        "id": 84,
         "name": "Magic Crystal of Infinity - Agility",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045044_3.png",
         "grade": 2,
@@ -5128,7 +5128,7 @@
         ]
     },
     {
-        "id": "85",
+        "id": 85,
         "name": "Magic Crystal of Infinity - Durability",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.png",
         "grade": 2,
@@ -5192,7 +5192,7 @@
         ]
     },
     {
-        "id": "86",
+        "id": 86,
         "name": "Magic Crystal of Infinity - Absorption",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.png",
         "grade": 2,
@@ -5256,7 +5256,7 @@
         ]
     },
     {
-        "id": "87",
+        "id": 87,
         "name": "Magic Crystal of Infinity - MP Recovery",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045003_1.png",
         "grade": 2,
@@ -5320,7 +5320,7 @@
         ]
     },
     {
-        "id": "88",
+        "id": 88,
         "name": "Magic Crystal of Infinity - Back Attack",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045003_2.png",
         "grade": 2,
@@ -5384,7 +5384,7 @@
         ]
     },
     {
-        "id": "89",
+        "id": 89,
         "name": "Magic Crystal of Infinity - Down Attack",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045004_2.png",
         "grade": 2,
@@ -5448,7 +5448,7 @@
         ]
     },
     {
-        "id": "90",
+        "id": 90,
         "name": "Magic Crystal of Infinity - Air Attack",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045005_2.png",
         "grade": 2,
@@ -5512,7 +5512,7 @@
         ]
     },
     {
-        "id": "91",
+        "id": 91,
         "name": "Magic Crystal of Infinity - Critical Hit",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045003_2.png",
         "grade": 2,
@@ -5576,7 +5576,7 @@
         ]
     },
     {
-        "id": "92",
+        "id": 92,
         "name": "Magic Crystal of Infinity - Speed Attack",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045004_2.png",
         "grade": 2,
@@ -5640,7 +5640,7 @@
         ]
     },
     {
-        "id": "93",
+        "id": 93,
         "name": "Magic Crystal of Infinity - Counter Attack",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045005_2.png",
         "grade": 2,
@@ -5704,7 +5704,7 @@
         ]
     },
     {
-        "id": "94",
+        "id": 94,
         "name": "Magic Crystal of Infinity - Siege",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045011_5.png",
         "grade": 2,
@@ -5768,7 +5768,7 @@
         ]
     },
     {
-        "id": "95",
+        "id": 95,
         "name": "Magic Crystal of Infinity - Special Evasion",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045012_5.png",
         "grade": 2,
@@ -5832,7 +5832,7 @@
         ]
     },
     {
-        "id": "96",
+        "id": 96,
         "name": "Magic Crystal of Infinity - Melee Defense",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045013_5.png",
         "grade": 2,
@@ -5896,7 +5896,7 @@
         ]
     },
     {
-        "id": "97",
+        "id": 97,
         "name": "Magic Crystal of Infinity - Ranged Defense",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045014_5.png",
         "grade": 2,
@@ -5960,7 +5960,7 @@
         ]
     },
     {
-        "id": "98",
+        "id": 98,
         "name": "Magic Crystal of Infinity - Magic Defense",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045015_5.png",
         "grade": 2,
@@ -6024,7 +6024,7 @@
         ]
     },
     {
-        "id": "99",
+        "id": 99,
         "name": "Magic Crystal of Infinity - Energy",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045021_8.png",
         "grade": 2,
@@ -6088,7 +6088,7 @@
         ]
     },
     {
-        "id": "100",
+        "id": 100,
         "name": "Magic Crystal of Infinity - Submergence",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045022_8.png",
         "grade": 2,
@@ -6152,7 +6152,7 @@
         ]
     },
     {
-        "id": "101",
+        "id": 101,
         "name": "Magic Crystal of Infinity - Melee Attack",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045031_7.png",
         "grade": 2,
@@ -6216,7 +6216,7 @@
         ]
     },
     {
-        "id": "102",
+        "id": 102,
         "name": "Magic Crystal of Infinity - Ranged Attack",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045032_7.png",
         "grade": 2,
@@ -6280,7 +6280,7 @@
         ]
     },
     {
-        "id": "103",
+        "id": 103,
         "name": "Magic Crystal of Infinity - Magic Attack",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045033_7.png",
         "grade": 2,
@@ -6344,7 +6344,7 @@
         ]
     },
     {
-        "id": "104",
+        "id": 104,
         "name": "Askasha's Repaired Magic Weapon",
         "icon": "/items/new_icon/03_etc/03_quest_item/00042398.png",
         "grade": 0,
@@ -6392,7 +6392,7 @@
         ]
     },
     {
-        "id": "105",
+        "id": 105,
         "name": "Ardan's Jewel",
         "icon": "/items/new_icon/03_etc/03_quest_item/00042402.png",
         "grade": 0,
@@ -6440,7 +6440,7 @@
         ]
     },
     {
-        "id": "178",
+        "id": 178,
         "name": "Whale Tendon Potion",
         "icon": "/items/new_icon/03_etc/08_potion/00000575.png",
         "grade": 1,
@@ -6504,7 +6504,7 @@
         ]
     },
     {
-        "id": "179",
+        "id": 179,
         "name": "Whale Tendon Elixir",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00000732.png",
         "grade": 2,
@@ -6576,7 +6576,7 @@
         ]
     },
     {
-        "id": "180",
+        "id": 180,
         "name": "Perfume of Courage",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00000734.png",
         "grade": 3,
@@ -6640,7 +6640,7 @@
         ]
     },
     {
-        "id": "181",
+        "id": 181,
         "name": "Perfume of Swiftness",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00000735.png",
         "grade": 3,
@@ -6704,7 +6704,7 @@
         ]
     },
     {
-        "id": "182",
+        "id": 182,
         "name": "Khalk's Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000748.png",
         "grade": 3,
@@ -6768,7 +6768,7 @@
         ]
     },
     {
-        "id": "183",
+        "id": 183,
         "name": "Marking Reagent",
         "icon": "/items/new_icon/03_etc/08_potion/00000761.png",
         "grade": 3,
@@ -6832,7 +6832,7 @@
         ]
     },
     {
-        "id": "191",
+        "id": 191,
         "name": "Elixir of Training",
         "icon": "/items/new_icon/03_etc/08_potion/00000753.png",
         "grade": 1,
@@ -6896,7 +6896,7 @@
         ]
     },
     {
-        "id": "192",
+        "id": 192,
         "name": "Elixir of Time",
         "icon": "/items/new_icon/03_etc/08_potion/00000749.png",
         "grade": 1,
@@ -6960,7 +6960,7 @@
         ]
     },
     {
-        "id": "203",
+        "id": 203,
         "name": "Elixir of Shock",
         "icon": "/items/new_icon/03_etc/08_potion/00000762.png",
         "grade": 1,
@@ -7024,7 +7024,7 @@
         ]
     },
     {
-        "id": "207",
+        "id": 207,
         "name": "Elixir of Deep Sea",
         "icon": "/items/new_icon/03_etc/08_potion/00000771.png",
         "grade": 3,
@@ -7088,7 +7088,7 @@
         ]
     },
     {
-        "id": "325",
+        "id": 325,
         "name": "Oil of the Abyss",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006606.png",
         "grade": 0,
@@ -7144,7 +7144,7 @@
         ]
     },
     {
-        "id": "332",
+        "id": 332,
         "name": "Magic Crystal of Infinity - Strength",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045033_7.png",
         "grade": 2,
@@ -7208,7 +7208,7 @@
         ]
     },
     {
-        "id": "216",
+        "id": 216,
         "name": "Spirit Perfume Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000781.png",
         "grade": 3,
@@ -7272,7 +7272,7 @@
         ]
     },
     {
-        "id": "217",
+        "id": 217,
         "name": "Griffon's Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000740.png",
         "grade": 1,
@@ -7344,7 +7344,7 @@
         ]
     },
     {
-        "id": "218",
+        "id": 218,
         "name": "Looney Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000777.png",
         "grade": 1,
@@ -7416,7 +7416,7 @@
         ]
     },
     {
-        "id": "219",
+        "id": 219,
         "name": "Weenie Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000773.png",
         "grade": 1,
@@ -7488,7 +7488,7 @@
         ]
     },
     {
-        "id": "220",
+        "id": 220,
         "name": "Magic Crystal of Infinity - Experience",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045044_3.png",
         "grade": 2,
@@ -7552,7 +7552,7 @@
         ]
     },
     {
-        "id": "223",
+        "id": 223,
         "name": "Elixir of Fond Memories",
         "icon": "/items/new_icon/03_etc/03_quest_item/00042413.png",
         "grade": 0,
@@ -7608,7 +7608,7 @@
         ]
     },
     {
-        "id": "224",
+        "id": 224,
         "name": "Broken Alchemy Stone Shard",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009734.png",
         "grade": 0,
@@ -7672,7 +7672,7 @@
         ]
     },
     {
-        "id": "228",
+        "id": 228,
         "name": "Special Honey Jar",
         "icon": "/items/new_icon/09_cash/00018449.png",
         "grade": 3,
@@ -7728,7 +7728,7 @@
         ]
     },
     {
-        "id": "236",
+        "id": 236,
         "name": "Helix Elixir",
         "icon": "/items/new_icon/03_etc/08_potion/00000782.png",
         "grade": 1,
@@ -7800,7 +7800,7 @@
         ]
     },
     {
-        "id": "337",
+        "id": 337,
         "name": "Imperfect Alchemy Stone of Destruction",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00045201.png",
         "grade": 0,
@@ -7864,7 +7864,7 @@
         ]
     },
     {
-        "id": "338",
+        "id": 338,
         "name": "Imperfect Alchemy Stone of Protection",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00045233.png",
         "grade": 0,
@@ -7928,7 +7928,7 @@
         ]
     },
     {
-        "id": "339",
+        "id": 339,
         "name": "Imperfect Alchemy Stone of Life",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00045265.png",
         "grade": 0,
@@ -7992,7 +7992,7 @@
         ]
     },
     {
-        "id": "340",
+        "id": 340,
         "name": "Sharp Spirit Stone of Destruction",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00045334.png",
         "grade": 2,
@@ -8128,7 +8128,7 @@
         ]
     },
     {
-        "id": "342",
+        "id": 342,
         "name": "Tenacious Origin of Life",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005303.png",
         "grade": 1,
@@ -8192,7 +8192,7 @@
         ]
     },
     {
-        "id": "343",
+        "id": 343,
         "name": "Rough Opulent Crystal",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005304.png",
         "grade": 1,
@@ -8256,7 +8256,7 @@
         ]
     },
     {
-        "id": "344",
+        "id": 344,
         "name": "Flawless Spirit Stone",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005305.png",
         "grade": 2,
@@ -8304,7 +8304,7 @@
         ]
     },
     {
-        "id": "345",
+        "id": 345,
         "name": "Sharp Spirit Stone of Destruction",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00045334.png",
         "grade": 1,
@@ -8408,7 +8408,7 @@
         ]
     },
     {
-        "id": "346",
+        "id": 346,
         "name": "Guardian Spirit Stone",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00045299.png",
         "grade": 1,
@@ -8512,7 +8512,7 @@
         ]
     },
     {
-        "id": "350",
+        "id": 350,
         "name": "Magic Crystal of Infinity - Skill",
         "icon": "/items/new_icon/03_etc/11_enchant_material/00045044_3.png",
         "grade": 2,
@@ -8576,7 +8576,7 @@
         ]
     },
     {
-        "id": "365",
+        "id": 365,
         "name": "Elixir of Skill",
         "icon": "/items/new_icon/03_etc/08_potion/00001152.png",
         "grade": 1,
@@ -8648,7 +8648,7 @@
         ]
     },
     {
-        "id": "366",
+        "id": 366,
         "name": "Elixir of Mastery",
         "icon": "/items/new_icon/03_etc/08_potion/00001155.png",
         "grade": 1,
@@ -8720,7 +8720,7 @@
         ]
     },
     {
-        "id": "367",
+        "id": 367,
         "name": "Elixir of Labor",
         "icon": "/items/new_icon/03_etc/08_potion/00001156.png",
         "grade": 1,
@@ -8784,7 +8784,7 @@
         ]
     },
     {
-        "id": "368",
+        "id": 368,
         "name": "Elixir of Armor",
         "icon": "/items/new_icon/03_etc/08_potion/00001151.png",
         "grade": 1,
@@ -8848,7 +8848,7 @@
         ]
     },
     {
-        "id": "369",
+        "id": 369,
         "name": "Perfume of Charm",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00001161.png",
         "grade": 3,
@@ -8912,7 +8912,7 @@
         ]
     },
     {
-        "id": "370",
+        "id": 370,
         "name": "Oil of Enchantment",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009779.png",
         "grade": 0,
@@ -8976,7 +8976,7 @@
         ]
     },
     {
-        "id": "371",
+        "id": 371,
         "name": "Refined Delotia Reagent",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005606.png",
         "grade": 0,
@@ -9024,7 +9024,7 @@
         ]
     },
     {
-        "id": "372",
+        "id": 372,
         "name": "Corrupt Oil of Immortality",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00001178.png",
         "grade": 3,
@@ -9088,7 +9088,7 @@
         ]
     },
     {
-        "id": "373",
+        "id": 373,
         "name": "Oil of Regeneration",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00006601.png",
         "grade": 0,
@@ -9144,7 +9144,7 @@
         ]
     },
     {
-        "id": "374",
+        "id": 374,
         "name": "Runn Light Fragment",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005125.png",
         "grade": 3,
