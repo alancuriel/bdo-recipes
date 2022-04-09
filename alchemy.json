@@ -7214,7 +7214,7 @@
         "grade": 3,
         "process": "Alchemy",
         "mastery": {
-            "name": "Guru",
+            "name": "Skilled",
             "level": 1
         },
         "exp": 2000,
@@ -9187,6 +9187,70 @@
                 "grade": 3,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00005125.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 375,
+        "name": "Vell's Fine Powder",
+        "icon": "/items/new_icon/03_etc/04_dropitem/00044332.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Skilled",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "6501",
+                "name": "Coral Piece",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006501.png",
+                "amount": 30
+            },
+            {
+                "id": "56",
+                "name": "Blood 6",
+                "grade": 0,
+                "type": "materialgroup",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006353.png",
+                "amount": 30
+            },
+            {
+                "id": "57",
+                "name": "Corals 2",
+                "grade": 0,
+                "type": "materialgroup",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006506.png",
+                "amount": 10
+            },
+            {
+                "id": "9733",
+                "name": "Shining Powder",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009733.png",
+                "amount": 2
+            },
+            {
+                "id": "44336",
+                "name": "Alchemy Stone Shard",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/04_dropitem/00044336.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "44332",
+                "name": "Vell's Fine Powder",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/04_dropitem/00044332.png",
                 "amount": 1
             }
         ]
