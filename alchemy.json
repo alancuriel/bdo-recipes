@@ -9198,7 +9198,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Skilled",
+            "name": "Professional",
             "level": 1
         },
         "exp": 0,
@@ -9251,6 +9251,1238 @@
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/04_dropitem/00044332.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 379,
+        "name": "Elixir of Destruction",
+        "icon": "/items/new_icon/03_etc/08_potion/00001180.png",
+        "grade": 1,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Skilled",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "6602",
+                "name": "Oil of Storms",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006602.png",
+                "amount": 1
+            },
+            {
+                "id": "5959",
+                "name": "Trace of Hunting",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005959.png",
+                "amount": 3
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 5
+            },
+            {
+                "id": "4802",
+                "name": "Powder of Flame",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004802.png",
+                "amount": 5
+            },
+            {
+                "id": "5024",
+                "name": "Snowfield Cedar Sap",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005024.png",
+                "amount": 7
+            }
+        ],
+        "products": [
+            {
+                "id": "1180",
+                "name": "Elixir of Destruction",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/08_potion/00001180.png",
+                "amount": 1
+            },
+            {
+                "id": "1181",
+                "name": "Elixir of Lethal Destruction",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/08_potion/00001181.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 380,
+        "name": "Elixir of Persistence",
+        "icon": "/items/new_icon/03_etc/08_potion/00001184.png",
+        "grade": 1,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Skilled",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "6605",
+                "name": "Oil of Tranquility",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006605.png",
+                "amount": 1
+            },
+            {
+                "id": "5960",
+                "name": "Trace of Forest",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005960.png",
+                "amount": 2
+            },
+            {
+                "id": "5546",
+                "name": "Red-spotted Amanita",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005546_1.png",
+                "amount": 3
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 5
+            },
+            {
+                "id": "4805",
+                "name": "Powder of Time",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004805.png",
+                "amount": 7
+            }
+        ],
+        "products": [
+            {
+                "id": "1184",
+                "name": "Elixir of Persistence",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/08_potion/00001184.png",
+                "amount": 1
+            },
+            {
+                "id": "1185",
+                "name": "Elixir of Endless Persistence",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/08_potion/00001185.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 381,
+        "name": "Elixir of Brawn",
+        "icon": "/items/new_icon/03_etc/08_potion/00001188.png",
+        "grade": 1,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Skilled",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "6603",
+                "name": "Oil of Fortitude",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006603.png",
+                "amount": 1
+            },
+            {
+                "id": "5960",
+                "name": "Trace of Forest",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005960.png",
+                "amount": 2
+            },
+            {
+                "id": "5550",
+                "name": "Dictyophora",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005550_1.png",
+                "amount": 3
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.png",
+                "amount": 5
+            },
+            {
+                "id": "4804",
+                "name": "Powder of Earth",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004804.png",
+                "amount": 7
+            }
+        ],
+        "products": [
+            {
+                "id": "1188",
+                "name": "Elixir of Brawn",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/08_potion/00001188.png",
+                "amount": 1
+            },
+            {
+                "id": "1189",
+                "name": "Elixir of Raw Brawn",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/08_potion/00001189.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 382,
+        "name": "Perfume of Insight",
+        "icon": "/items/new_icon/03_etc/08_potion/00001200.png",
+        "grade": 3,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Skilled",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9791",
+                "name": "Essence of Insight",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009791.png",
+                "amount": 1
+            },
+            {
+                "id": "5957",
+                "name": "Trace of Origin",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005957.png",
+                "amount": 3
+            },
+            {
+                "id": "5007",
+                "name": "Monk's Branch",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005007.png",
+                "amount": 3
+            },
+            {
+                "id": "6656",
+                "name": "Purified Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006656.png",
+                "amount": 3
+            },
+            {
+                "id": "4803",
+                "name": "Powder of Crevice",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "1200",
+                "name": "Perfume of Insight",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/08_potion/00001200.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 383,
+        "name": "Miloberry's Apu Apu Waterstarwort",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00005140.png",
+        "grade": 1,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5019",
+                "name": "Dead Tree Essence",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005019.png",
+                "amount": 1
+            },
+            {
+                "id": "5651",
+                "name": "Fairy Powder",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005651.png",
+                "amount": 10
+            },
+            {
+                "id": "9057",
+                "name": "Essence of Liquor",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009057.png",
+                "amount": 10
+            },
+            {
+                "id": "5006",
+                "name": "Spirit's Leaf",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005006.png",
+                "amount": 10
+            }
+        ],
+        "products": [
+            {
+                "id": "5140",
+                "name": "Miloberry's Apu Apu Waterstarwort",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005140.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 384,
+        "name": "Dragon's Tears",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00005198.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "6651",
+                "name": "Distilled Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006651.png",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 50
+            },
+            {
+                "id": "5406",
+                "name": "Everlasting Herb",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005406.png",
+                "amount": 50
+            },
+            {
+                "id": "5963",
+                "name": "Trace of Memory",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005963.png",
+                "amount": 50
+            },
+            {
+                "id": "4918",
+                "name": "Magical Shard",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004918.png",
+                "amount": 4
+            }
+        ],
+        "products": [
+            {
+                "id": "5198",
+                "name": "Dragon's Tears",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005198.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 385,
+        "name": "Essence of Tunta",
+        "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+        "grade": 0,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5209",
+                "name": "Fruit of Enchantment",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005209.png",
+                "amount": 50
+            },
+            {
+                "id": "5606",
+                "name": "Refined Delotia Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005606.png",
+                "amount": 50
+            },
+            {
+                "id": "6165",
+                "name": "Fine Lightweight Plume",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006165.png",
+                "amount": 50
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "42435",
+                "name": "Kzarka's Latent Aura",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/03_quest_item/00042435.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "65741",
+                "name": "Essence of Tunta",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 386,
+        "name": "Essence of Tunta",
+        "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+        "grade": 0,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5209",
+                "name": "Fruit of Enchantment",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005209.png",
+                "amount": 50
+            },
+            {
+                "id": "5606",
+                "name": "Refined Delotia Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005606.png",
+                "amount": 50
+            },
+            {
+                "id": "6165",
+                "name": "Fine Lightweight Plume",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006165.png",
+                "amount": 50
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "42436",
+                "name": "Nouver's Latent Aura",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/03_quest_item/00042436.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "65741",
+                "name": "Essence of Tunta",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 387,
+        "name": "Essence of Tunta",
+        "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+        "grade": 0,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5209",
+                "name": "Fruit of Enchantment",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005209.png",
+                "amount": 50
+            },
+            {
+                "id": "5606",
+                "name": "Refined Delotia Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005606.png",
+                "amount": 50
+            },
+            {
+                "id": "6165",
+                "name": "Fine Lightweight Plume",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006165.png",
+                "amount": 50
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "42450",
+                "name": "Kutum's Latent Aura",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/03_quest_item/00042450.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "65741",
+                "name": "Essence of Tunta",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 388,
+        "name": "Essence of Tunta",
+        "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+        "grade": 0,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5209",
+                "name": "Fruit of Enchantment",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005209.png",
+                "amount": 50
+            },
+            {
+                "id": "5606",
+                "name": "Refined Delotia Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005606.png",
+                "amount": 50
+            },
+            {
+                "id": "6165",
+                "name": "Fine Lightweight Plume",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006165.png",
+                "amount": 50
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "42437",
+                "name": "Karanda's Latent Aura",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/03_quest_item/00042437.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "65741",
+                "name": "Essence of Tunta",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 389,
+        "name": "Essence of Tunta",
+        "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+        "grade": 0,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5209",
+                "name": "Fruit of Enchantment",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005209.png",
+                "amount": 50
+            },
+            {
+                "id": "5606",
+                "name": "Refined Delotia Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005606.png",
+                "amount": 50
+            },
+            {
+                "id": "6165",
+                "name": "Fine Lightweight Plume",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00006165.png",
+                "amount": 50
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "42495",
+                "name": "Offin Tett's Light Fragment",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/10_free_tradeitem/00055056.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "65741",
+                "name": "Essence of Tunta",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/04_dropitem/00065741.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 390,
+        "name": "Purified Lightstone of Fire",
+        "icon": "/items/new_icon/03_etc/00766005.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766104",
+                "name": "Imperfect Lightstone of Fire",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766104.png",
+                "amount": 1
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "16001",
+                "name": "Black Stone (Weapon)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000008.png",
+                "amount": 10
+            },
+            {
+                "id": "4802",
+                "name": "Powder of Flame",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004802.png",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766001",
+                "name": "Purified Lightstone of Fire",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766005.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 391,
+        "name": "Purified Lightstone of Fire",
+        "icon": "/items/new_icon/03_etc/00766005.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766104",
+                "name": "Imperfect Lightstone of Fire",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766104.png",
+                "amount": 1
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "16002",
+                "name": "Black Stone (Armor)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.png",
+                "amount": 10
+            },
+            {
+                "id": "4802",
+                "name": "Powder of Flame",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004802.png",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766001",
+                "name": "Purified Lightstone of Fire",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766005.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 392,
+        "name": "Purified Lightstone of Earth",
+        "icon": "/items/new_icon/03_etc/00766025.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766105",
+                "name": "Imperfect Lightstone of Earth",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766105.png",
+                "amount": 1
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "16002",
+                "name": "Black Stone (Armor)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.png",
+                "amount": 10
+            },
+            {
+                "id": "4804",
+                "name": "Powder of Earth",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004804.png",
+                "amount": 50
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766011",
+                "name": "Purified Lightstone of Earth",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766025.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 393,
+        "name": "Purified Lightstone of Earth",
+        "icon": "/items/new_icon/03_etc/00766025.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766105",
+                "name": "Imperfect Lightstone of Earth",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766105.png",
+                "amount": 1
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "16001",
+                "name": "Black Stone (Weapon)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000008.png",
+                "amount": 10
+            },
+            {
+                "id": "4804",
+                "name": "Powder of Earth",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004804.png",
+                "amount": 50
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766011",
+                "name": "Purified Lightstone of Earth",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766025.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 394,
+        "name": "Purified Lightstone of Wind",
+        "icon": "/items/new_icon/03_etc/00766035.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766106",
+                "name": "Imperfect Lightstone of Wind",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766106.png",
+                "amount": 1
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "16001",
+                "name": "Black Stone (Weapon)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000008.png",
+                "amount": 10
+            },
+            {
+                "id": "4803",
+                "name": "Powder of Crevice",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766021",
+                "name": "Purified Lightstone of Wind",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766035.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 395,
+        "name": "Purified Lightstone of Wind",
+        "icon": "/items/new_icon/03_etc/00766035.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766106",
+                "name": "Imperfect Lightstone of Wind",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766106.png",
+                "amount": 1
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "16002",
+                "name": "Black Stone (Armor)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.png",
+                "amount": 10
+            },
+            {
+                "id": "4803",
+                "name": "Powder of Crevice",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766021",
+                "name": "Purified Lightstone of Wind",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766035.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 396,
+        "name": "Purified Lightstone of Flora",
+        "icon": "/items/new_icon/03_etc/00766015.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766107",
+                "name": "Imperfect Lightstone of Flora",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766107.png",
+                "amount": 1
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "16001",
+                "name": "Black Stone (Weapon)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000008.png",
+                "amount": 10
+            },
+            {
+                "id": "4805",
+                "name": "Powder of Time",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004805.png",
+                "amount": 50
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766031",
+                "name": "Purified Lightstone of Flora",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766015.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 397,
+        "name": "Purified Lightstone of Flora",
+        "icon": "/items/new_icon/03_etc/00766015.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Beginner",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766107",
+                "name": "Imperfect Lightstone of Flora",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766107.png",
+                "amount": 1
+            },
+            {
+                "id": "4999",
+                "name": "Black Gem Fragment",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004999.png",
+                "amount": 10
+            },
+            {
+                "id": "16002",
+                "name": "Black Stone (Armor)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.png",
+                "amount": 10
+            },
+            {
+                "id": "4805",
+                "name": "Powder of Time",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004805.png",
+                "amount": 50
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766031",
+                "name": "Purified Lightstone of Flora",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766015.png",
                 "amount": 1
             }
         ]

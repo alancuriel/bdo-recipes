@@ -8318,5 +8318,2125 @@
                 "amount": 1
             }
         ]
+    },
+    {
+        "id": 376,
+        "name": "Single-brewed Mesima Tea",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009364.png",
+        "grade": 0,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5548",
+                "name": "Mesima",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005548_1.png",
+                "amount": 5
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9364",
+                "name": "Single-brewed Mesima Tea",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009364.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 377,
+        "name": "Twice-brewed Mesima Tea",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009365.png",
+        "grade": 0,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9364",
+                "name": "Single-brewed Mesima Tea",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009364.png",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9365",
+                "name": "Twice-brewed Mesima Tea",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009365.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 378,
+        "name": "Well-brewed Mesima Tea",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009366.png",
+        "grade": 2,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Skilled",
+            "level": 9
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9365",
+                "name": "Twice-brewed Mesima Tea",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009365.png",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9366",
+                "name": "Well-brewed Mesima Tea",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009366.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 398,
+        "name": "Chanterelle Stew",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009339.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5544",
+                "name": "Chanterelle",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005544_1.png",
+                "amount": 3
+            },
+            {
+                "id": "7305",
+                "name": "Hot Pepper",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007305.png",
+                "amount": 1
+            },
+            {
+                "id": "9004",
+                "name": "Red Sauce",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009004.png",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "9339",
+                "name": "Chanterelle Stew",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009339.png",
+                "amount": 1
+            },
+            {
+                "id": "9340",
+                "name": "Spicy Chanterelle Stew",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009340.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 399,
+        "name": "Chanterelle and Potato Stew",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009341.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5544",
+                "name": "Chanterelle",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005544_1.png",
+                "amount": 2
+            },
+            {
+                "id": "7008",
+                "name": "High-Quality Potato",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007003.png",
+                "amount": 4
+            },
+            {
+                "id": "7303",
+                "name": "Onion",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007303.png",
+                "amount": 1
+            },
+            {
+                "id": "7318",
+                "name": "Cabbage",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.png",
+                "amount": 2
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "9341",
+                "name": "Chanterelle and Potato Stew",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009341.png",
+                "amount": 1
+            },
+            {
+                "id": "9342",
+                "name": "Nutritious Chanterelle and Potato Stew",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009342.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 400,
+        "name": "Chanterelle and Potato Stew",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009341.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5544",
+                "name": "Chanterelle",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005544_1.png",
+                "amount": 2
+            },
+            {
+                "id": "7003",
+                "name": "Potato",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007003.png",
+                "amount": 5
+            },
+            {
+                "id": "7303",
+                "name": "Onion",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007303.png",
+                "amount": 1
+            },
+            {
+                "id": "7318",
+                "name": "Cabbage",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.png",
+                "amount": 2
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "9341",
+                "name": "Chanterelle and Potato Stew",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009341.png",
+                "amount": 1
+            },
+            {
+                "id": "9342",
+                "name": "Nutritious Chanterelle and Potato Stew",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009342.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 401,
+        "name": "Chanterelle and Potato Stew",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009341.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5544",
+                "name": "Chanterelle",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005544_1.png",
+                "amount": 2
+            },
+            {
+                "id": "7013",
+                "name": "Special Potato",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007003.png",
+                "amount": 1
+            },
+            {
+                "id": "7303",
+                "name": "Onion",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007303.png",
+                "amount": 1
+            },
+            {
+                "id": "7318",
+                "name": "Cabbage",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.png",
+                "amount": 2
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "9341",
+                "name": "Chanterelle and Potato Stew",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009341.png",
+                "amount": 1
+            },
+            {
+                "id": "9342",
+                "name": "Nutritious Chanterelle and Potato Stew",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009342.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 402,
+        "name": "Stir-Fried Chanterelle and Meat",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009343.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5544",
+                "name": "Chanterelle",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005544_1.png",
+                "amount": 3
+            },
+            {
+                "id": "7905",
+                "name": "Pork",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.png",
+                "amount": 5
+            },
+            {
+                "id": "9018",
+                "name": "Base Sauce",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009018.png",
+                "amount": 2
+            },
+            {
+                "id": "7301",
+                "name": "Pepper",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007301.png",
+                "amount": 2
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.png",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "9343",
+                "name": "Stir-Fried Chanterelle and Meat",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009343.png",
+                "amount": 1
+            },
+            {
+                "id": "9344",
+                "name": "Hearty Stir-fried Chanterelle and Meat",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009344.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 403,
+        "name": "Chanterelle Porridge",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009345.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5544",
+                "name": "Chanterelle",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005544_1.png",
+                "amount": 2
+            },
+            {
+                "id": "7001",
+                "name": "Wheat",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.png",
+                "amount": 5
+            },
+            {
+                "id": "7303",
+                "name": "Onion",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007303.png",
+                "amount": 1
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.png",
+                "amount": 2
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "9345",
+                "name": "Chanterelle Porridge",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009345.png",
+                "amount": 1
+            },
+            {
+                "id": "9346",
+                "name": "Savory Chanterelle Porridge",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009346.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "name": "Chanterelle Risotto",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009349.png",
+        "grade": 2,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Professional",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5544",
+                "name": "Chanterelle",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005544_1.png",
+                "amount": 2
+            },
+            {
+                "id": "7001",
+                "name": "Wheat",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.png",
+                "amount": 5
+            },
+            {
+                "id": "9003",
+                "name": "White Sauce",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009003.png",
+                "amount": 1
+            },
+            {
+                "id": "9063",
+                "name": "Butter",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009063.png",
+                "amount": 1
+            },
+            {
+                "id": "9015",
+                "name": "Olive Oil",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009015.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9349",
+                "name": "Chanterelle Risotto",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009349.png",
+                "amount": 1
+            },
+            {
+                "id": "9350",
+                "name": "Aromatic Chanterelle Risotto",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009350.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 405,
+        "name": "Citron Cider",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009351.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7362",
+                "name": "Special Citron",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "9057",
+                "name": "Essence of Liquor",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009057.png",
+                "amount": 3
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 1
+            },
+            {
+                "id": "9005",
+                "name": "Leavening Agent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.png",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "9351",
+                "name": "Citron Cider",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009351.png",
+                "amount": 1
+            },
+            {
+                "id": "9352",
+                "name": "Sour Citron Cider",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009352.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 406,
+        "name": "Citron Cider",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009351.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7360",
+                "name": "Citron",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 5
+            },
+            {
+                "id": "9057",
+                "name": "Essence of Liquor",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009057.png",
+                "amount": 3
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 1
+            },
+            {
+                "id": "9005",
+                "name": "Leavening Agent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.png",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "9351",
+                "name": "Citron Cider",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009351.png",
+                "amount": 1
+            },
+            {
+                "id": "9352",
+                "name": "Sour Citron Cider",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009352.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "name": "Citron Cider",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009351.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7361",
+                "name": "High-quality Citron",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 2
+            },
+            {
+                "id": "9057",
+                "name": "Essence of Liquor",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009057.png",
+                "amount": 3
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 1
+            },
+            {
+                "id": "9005",
+                "name": "Leavening Agent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.png",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "9351",
+                "name": "Citron Cider",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009351.png",
+                "amount": 1
+            },
+            {
+                "id": "9352",
+                "name": "Sour Citron Cider",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009352.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 408,
+        "name": "Citron Vinegar",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009353.png",
+        "grade": 0,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 10
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7362",
+                "name": "Special Citron",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "9005",
+                "name": "Leavening Agent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.png",
+                "amount": 1
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9353",
+                "name": "Citron Vinegar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009353.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 409,
+        "name": "Citron Vinegar",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009353.png",
+        "grade": 0,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 10
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7360",
+                "name": "Citron",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 2
+            },
+            {
+                "id": "9005",
+                "name": "Leavening Agent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.png",
+                "amount": 1
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9353",
+                "name": "Citron Vinegar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009353.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 410,
+        "name": "Citron Vinegar",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009353.png",
+        "grade": 0,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 10
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7361",
+                "name": "High-quality Citron",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "9005",
+                "name": "Leavening Agent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.png",
+                "amount": 1
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9353",
+                "name": "Citron Vinegar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009353.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 411,
+        "name": "Citron Juice",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009355.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7362",
+                "name": "Special Citron",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 3
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 5
+            },
+            {
+                "id": "7702",
+                "name": "Cooking Honey",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9355",
+                "name": "Citron Juice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009355.png",
+                "amount": 1
+            },
+            {
+                "id": "9356",
+                "name": "Sweet Citron Juice",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009356.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 412,
+        "name": "Citron Juice",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009355.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7360",
+                "name": "Citron",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 5
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 3
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 5
+            },
+            {
+                "id": "7702",
+                "name": "Cooking Honey",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9355",
+                "name": "Citron Juice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009355.png",
+                "amount": 1
+            },
+            {
+                "id": "9356",
+                "name": "Sweet Citron Juice",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009356.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 413,
+        "name": "Citron Juice",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009355.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7361",
+                "name": "High-quality Citron",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 2
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 3
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 5
+            },
+            {
+                "id": "7702",
+                "name": "Cooking Honey",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9355",
+                "name": "Citron Juice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009355.png",
+                "amount": 1
+            },
+            {
+                "id": "9356",
+                "name": "Sweet Citron Juice",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009356.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 414,
+        "name": "Balacs Lunchbox",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009359.png",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9369",
+                "name": "Eilton Sandwich",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009369.png",
+                "amount": 2
+            },
+            {
+                "id": "9355",
+                "name": "Citron Juice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009355.png",
+                "amount": 2
+            },
+            {
+                "id": "9378",
+                "name": "Citron Candy",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009378.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "9359",
+                "name": "Balacs Lunchbox",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009359.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 415,
+        "name": "Balacs Lunchbox",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009359.png",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9370",
+                "name": "High-quality Eilton Sandwich",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009370.png",
+                "amount": 1
+            },
+            {
+                "id": "9355",
+                "name": "Citron Juice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009355.png",
+                "amount": 2
+            },
+            {
+                "id": "9378",
+                "name": "Citron Candy",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009378.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "9359",
+                "name": "Balacs Lunchbox",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009359.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 416,
+        "name": "Special Eilton Specialty Meal",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009360.png",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9351",
+                "name": "Citron Cider",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009351.png",
+                "amount": 2
+            },
+            {
+                "id": "9345",
+                "name": "Chanterelle Porridge",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009345.png",
+                "amount": 2
+            },
+            {
+                "id": "9361",
+                "name": "Pickled Citron and Onions",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009361.png",
+                "amount": 1
+            },
+            {
+                "id": "9339",
+                "name": "Chanterelle Stew",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009339.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9360",
+                "name": "Special Eilton Specialty Meal",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009360.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 417,
+        "name": "Special Eilton Specialty Meal",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009360.png",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9352",
+                "name": "Sour Citron Cider",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009352.png",
+                "amount": 1
+            },
+            {
+                "id": "9345",
+                "name": "Chanterelle Porridge",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009345.png",
+                "amount": 2
+            },
+            {
+                "id": "9361",
+                "name": "Pickled Citron and Onions",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009361.png",
+                "amount": 1
+            },
+            {
+                "id": "9339",
+                "name": "Chanterelle Stew",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009339.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9360",
+                "name": "Special Eilton Specialty Meal",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009360.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 418,
+        "name": "Pickled Citron and Onions",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009361.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 10
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7303",
+                "name": "Onion",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007303.png",
+                "amount": 2
+            },
+            {
+                "id": "9353",
+                "name": "Citron Vinegar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009353.png",
+                "amount": 2
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 2
+            },
+            {
+                "id": "9005",
+                "name": "Leavening Agent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "9361",
+                "name": "Pickled Citron and Onions",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009361.png",
+                "amount": 1
+            },
+            {
+                "id": "9362",
+                "name": "Crisp Pickled Citron and Onions",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009362.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 419,
+        "name": "Mesima Rice Wine",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009367.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Skilled",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5548",
+                "name": "Mesima",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005548_1.png",
+                "amount": 2
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 3
+            },
+            {
+                "id": "9005",
+                "name": "Leavening Agent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.png",
+                "amount": 3
+            },
+            {
+                "id": "7001",
+                "name": "Wheat",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.png",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "9367",
+                "name": "Mesima Rice Wine",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009367.png",
+                "amount": 1
+            },
+            {
+                "id": "9368",
+                "name": "Mild Mesima Rice Wine",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009368.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 420,
+        "name": "Eilton Sandwich",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009369.png",
+        "grade": 2,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Professional",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7362",
+                "name": "Special Citron",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "9260",
+                "name": "Soft Bread",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009260.png",
+                "amount": 2
+            },
+            {
+                "id": "9064",
+                "name": "Egg",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009064.png",
+                "amount": 4
+            },
+            {
+                "id": "7318",
+                "name": "Cabbage",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.png",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "9369",
+                "name": "Eilton Sandwich",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009369.png",
+                "amount": 1
+            },
+            {
+                "id": "9370",
+                "name": "High-quality Eilton Sandwich",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009370.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 421,
+        "name": "Eilton Sandwich",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009369.png",
+        "grade": 2,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Professional",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7361",
+                "name": "High-quality Citron",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "9260",
+                "name": "Soft Bread",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009260.png",
+                "amount": 2
+            },
+            {
+                "id": "9064",
+                "name": "Egg",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009064.png",
+                "amount": 4
+            },
+            {
+                "id": "7318",
+                "name": "Cabbage",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.png",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "9369",
+                "name": "Eilton Sandwich",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009369.png",
+                "amount": 1
+            },
+            {
+                "id": "9370",
+                "name": "High-quality Eilton Sandwich",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009370.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 422,
+        "name": "Eilton Sandwich",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009369.png",
+        "grade": 2,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Professional",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7360",
+                "name": "Citron",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 2
+            },
+            {
+                "id": "9260",
+                "name": "Soft Bread",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009260.png",
+                "amount": 2
+            },
+            {
+                "id": "9064",
+                "name": "Egg",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009064.png",
+                "amount": 4
+            },
+            {
+                "id": "7318",
+                "name": "Cabbage",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.png",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "9369",
+                "name": "Eilton Sandwich",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009369.png",
+                "amount": 1
+            },
+            {
+                "id": "9370",
+                "name": "High-quality Eilton Sandwich",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009370.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 423,
+        "name": "Mesima Chicken Soup",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009371.png",
+        "grade": 2,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "5548",
+                "name": "Mesima",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005548_1.png",
+                "amount": 3
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.png",
+                "amount": 2
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.png",
+                "amount": 1
+            },
+            {
+                "id": "7016",
+                "name": "Date Palm",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007016.png",
+                "amount": 1
+            },
+            {
+                "id": "7921",
+                "name": "Chicken Meat",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9371",
+                "name": "Mesima Chicken Soup",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009371.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 424,
+        "name": "Fruit Sherbet",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009376.png",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9069",
+                "name": "Translucent Ice",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009069.png",
+                "amount": 1
+            },
+            {
+                "id": "7313",
+                "name": "Apple",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.png",
+                "amount": 2
+            },
+            {
+                "id": "9002",
+                "name": "Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.png",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "9376",
+                "name": "Fruit Sherbet",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009376.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 425,
+        "name": "Citron Candy",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009378.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 10
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7360",
+                "name": "Citron",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "7702",
+                "name": "Cooking Honey",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.png",
+                "amount": 1
+            },
+            {
+                "id": "9009",
+                "name": "Raw Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009009.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9378",
+                "name": "Citron Candy",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009378.png",
+                "amount": 1
+            },
+            {
+                "id": "9379",
+                "name": "Sour Citron Candy",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009379.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 426,
+        "name": "Citron Candy",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009378.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 10
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7361",
+                "name": "High-quality Citron",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "7702",
+                "name": "Cooking Honey",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.png",
+                "amount": 1
+            },
+            {
+                "id": "9009",
+                "name": "Raw Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009009.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9378",
+                "name": "Citron Candy",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009378.png",
+                "amount": 1
+            },
+            {
+                "id": "9379",
+                "name": "Sour Citron Candy",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009379.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 427,
+        "name": "Citron Candy",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009378.png",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 10
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7362",
+                "name": "Special Citron",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007360.png",
+                "amount": 1
+            },
+            {
+                "id": "7702",
+                "name": "Cooking Honey",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.png",
+                "amount": 1
+            },
+            {
+                "id": "9009",
+                "name": "Raw Sugar",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009009.png",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "9378",
+                "name": "Citron Candy",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009378.png",
+                "amount": 1
+            },
+            {
+                "id": "9379",
+                "name": "Sour Citron Candy",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009379.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 428,
+        "name": "Eilton Meal",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009640.png",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9349",
+                "name": "Chanterelle Risotto",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009349.png",
+                "amount": 1
+            },
+            {
+                "id": "9341",
+                "name": "Chanterelle and Potato Stew",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009341.png",
+                "amount": 1
+            },
+            {
+                "id": "9343",
+                "name": "Stir-Fried Chanterelle and Meat",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009343.png",
+                "amount": 1
+            },
+            {
+                "id": "9376",
+                "name": "Fruit Sherbet",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009376.png",
+                "amount": 2
+            },
+            {
+                "id": "9367",
+                "name": "Mesima Rice Wine",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009367.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "9640",
+                "name": "Eilton Meal",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009640.png",
+                "amount": 1
+            },
+            {
+                "id": "9641",
+                "name": "Special Eilton Meal",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009641.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 429,
+        "name": "Eilton Meal",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00009640.png",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9350",
+                "name": "Aromatic Chanterelle Risotto",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009350.png",
+                "amount": 1
+            },
+            {
+                "id": "9341",
+                "name": "Chanterelle and Potato Stew",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009341.png",
+                "amount": 1
+            },
+            {
+                "id": "9343",
+                "name": "Stir-Fried Chanterelle and Meat",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009343.png",
+                "amount": 1
+            },
+            {
+                "id": "9376",
+                "name": "Fruit Sherbet",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009376.png",
+                "amount": 2
+            },
+            {
+                "id": "9367",
+                "name": "Mesima Rice Wine",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009367.png",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "9640",
+                "name": "Eilton Meal",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009640.png",
+                "amount": 1
+            },
+            {
+                "id": "9641",
+                "name": "Special Eilton Meal",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009641.png",
+                "amount": 1
+            }
+        ]
     }
 ]
