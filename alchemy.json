@@ -3413,7 +3413,7 @@
             },
             {
                 "id": "4803",
-                "name": "Powder of Crevice",
+                "name": "Powder of Rifts",
                 "grade": 0,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
@@ -6869,7 +6869,7 @@
             },
             {
                 "id": "4803",
-                "name": "Powder of Crevice",
+                "name": "Powder of Rifts",
                 "grade": 0,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
@@ -9117,7 +9117,7 @@
             },
             {
                 "id": "4803",
-                "name": "Powder of Crevice",
+                "name": "Powder of Rifts",
                 "grade": 0,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
@@ -9517,7 +9517,7 @@
             },
             {
                 "id": "4803",
-                "name": "Powder of Crevice",
+                "name": "Powder of Rifts",
                 "grade": 0,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
@@ -9982,7 +9982,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Beginner",
+            "name": "Guru",
             "level": 1
         },
         "exp": 0,
@@ -10046,7 +10046,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Beginner",
+            "name": "Guru",
             "level": 1
         },
         "exp": 0,
@@ -10110,7 +10110,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Beginner",
+            "name": "Guru",
             "level": 1
         },
         "exp": 0,
@@ -10174,7 +10174,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Beginner",
+            "name": "Guru",
             "level": 1
         },
         "exp": 0,
@@ -10238,7 +10238,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Beginner",
+            "name": "Guru",
             "level": 1
         },
         "exp": 0,
@@ -10269,7 +10269,7 @@
             },
             {
                 "id": "4803",
-                "name": "Powder of Crevice",
+                "name": "Powder of Rifts",
                 "grade": 0,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
@@ -10302,7 +10302,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Beginner",
+            "name": "Guru",
             "level": 1
         },
         "exp": 0,
@@ -10333,7 +10333,7 @@
             },
             {
                 "id": "4803",
-                "name": "Powder of Crevice",
+                "name": "Powder of Rifts",
                 "grade": 0,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
@@ -10366,7 +10366,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Beginner",
+            "name": "Guru",
             "level": 1
         },
         "exp": 0,
@@ -10430,7 +10430,7 @@
         "grade": 2,
         "process": "Alchemy",
         "mastery": {
-            "name": "Beginner",
+            "name": "Guru",
             "level": 1
         },
         "exp": 0,
@@ -10457,6 +10457,262 @@
                 "grade": 4,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.png",
+                "amount": 10
+            },
+            {
+                "id": "4805",
+                "name": "Powder of Time",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004805.png",
+                "amount": 50
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766031",
+                "name": "Purified Lightstone of Flora",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766015.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 430,
+        "name": "Purified Lightstone of Fire",
+        "icon": "/items/new_icon/03_etc/00766005.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Guru",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766104",
+                "name": "Imperfect Lightstone of Fire",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766104.png",
+                "amount": 1
+            },
+            {
+                "id": "766108",
+                "name": "Magical Lightstone Crystal",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766108.png",
+                "amount": 10
+            },
+            {
+                "id": "16001",
+                "name": "Black Stone (Weapon)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000008.png",
+                "amount": 10
+            },
+            {
+                "id": "4802",
+                "name": "Powder of Flame",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004802.png",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766001",
+                "name": "Purified Lightstone of Fire",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766005.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 431,
+        "name": "Purified Lightstone of Earth",
+        "icon": "/items/new_icon/03_etc/00766025.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Guru",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766105",
+                "name": "Imperfect Lightstone of Earth",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766105.png",
+                "amount": 1
+            },
+            {
+                "id": "766108",
+                "name": "Magical Lightstone Crystal",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766108.png",
+                "amount": 10
+            },
+            {
+                "id": "16002",
+                "name": "Black Stone (Armor)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.png",
+                "amount": 10
+            },
+            {
+                "id": "4804",
+                "name": "Powder of Earth",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004804.png",
+                "amount": 50
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766011",
+                "name": "Purified Lightstone of Earth",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766025.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 432,
+        "name": "Purified Lightstone of Wind",
+        "icon": "/items/new_icon/03_etc/00766035.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Guru",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766106",
+                "name": "Imperfect Lightstone of Wind",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766106.png",
+                "amount": 1
+            },
+            {
+                "id": "766108",
+                "name": "Magical Lightstone Crystal",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766108.png",
+                "amount": 10
+            },
+            {
+                "id": "16001",
+                "name": "Black Stone (Weapon)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000008.png",
+                "amount": 10
+            },
+            {
+                "id": "4803",
+                "name": "Powder of Rifts",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.png",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.png",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766021",
+                "name": "Purified Lightstone of Wind",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766035.png",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 433,
+        "name": "Purified Lightstone of Flora",
+        "icon": "/items/new_icon/03_etc/00766015.png",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Guru",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766107",
+                "name": "Imperfect Lightstone of Flora",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766107.png",
+                "amount": 1
+            },
+            {
+                "id": "766108",
+                "name": "Magical Lightstone Crystal",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766108.png",
+                "amount": 10
+            },
+            {
+                "id": "16001",
+                "name": "Black Stone (Weapon)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000008.png",
                 "amount": 10
             },
             {
