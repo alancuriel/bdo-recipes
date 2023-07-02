@@ -28,10 +28,10 @@
                 "amount": 1
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 1
             },
@@ -76,26 +76,26 @@
                 "amount": 1
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 2
             },
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 2
             }
@@ -132,10 +132,10 @@
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 1
             },
@@ -148,10 +148,10 @@
                 "amount": 1
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             }
@@ -180,18 +180,18 @@
         "exp": 400,
         "materials": [
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 1
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 1
             },
@@ -228,18 +228,18 @@
         "exp": 400,
         "materials": [
             {
-                "id": "44",
+                "id": "7005",
                 "name": "Corn",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007005.webp",
                 "amount": 1
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 1
             },
@@ -252,10 +252,10 @@
                 "amount": 1
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             }
@@ -285,17 +285,17 @@
         "materials": [
             {
                 "id": "9262",
-                "name": "Exotic Herbal Wine",
+                "name": "Makgeolli",
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009262.webp",
                 "amount": 1
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 5
             },
@@ -308,10 +308,10 @@
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 2
             }
@@ -348,10 +348,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 8
             },
@@ -372,10 +372,10 @@
                 "amount": 2
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 2
             }
@@ -420,18 +420,18 @@
                 "amount": 1
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7201",
+                "name": "Wheat Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007201.webp",
                 "amount": 5
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 4
             },
@@ -500,10 +500,10 @@
                 "amount": 2
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
@@ -556,26 +556,26 @@
                 "amount": 5
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 7
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 4
             }
@@ -612,10 +612,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 3
             },
@@ -628,18 +628,18 @@
                 "amount": 2
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 6
             }
@@ -700,10 +700,10 @@
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 1
             }
@@ -740,10 +740,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "8",
-                "name": "Dried fish",
+                "id": "8510",
+                "name": "Dried Rockfish",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008510.webp",
                 "amount": 2
             },
@@ -756,18 +756,18 @@
                 "amount": 3
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 7
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             }
@@ -812,10 +812,10 @@
                 "amount": 1
             },
             {
-                "id": "10",
-                "name": "Seafood",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8211",
+                "name": "Squid",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008211.webp",
                 "amount": 1
             },
@@ -828,10 +828,10 @@
                 "amount": 3
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 5
             }
@@ -876,26 +876,26 @@
                 "amount": 1
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 4
             }
@@ -932,26 +932,26 @@
                 "amount": 1
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 4
             }
@@ -980,26 +980,26 @@
         "exp": 400,
         "materials": [
             {
-                "id": "44",
+                "id": "7005",
                 "name": "Corn",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007005.webp",
                 "amount": 5
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 6
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             },
@@ -1044,10 +1044,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 5
             },
@@ -1068,10 +1068,10 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 1
             }
@@ -1108,18 +1108,18 @@
         "exp": 400,
         "materials": [
             {
-                "id": "44",
+                "id": "7005",
                 "name": "Corn",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007005.webp",
                 "amount": 6
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "6656",
+                "name": "Purified Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006656.webp",
                 "amount": 1
             },
@@ -1132,10 +1132,10 @@
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 1
             }
@@ -1172,18 +1172,18 @@
         "exp": 400,
         "materials": [
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 4
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 3
             },
@@ -1236,34 +1236,34 @@
         "exp": 400,
         "materials": [
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 4
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 1
             }
@@ -1300,18 +1300,18 @@
         "exp": 700,
         "materials": [
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 4
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 4
             },
@@ -1364,10 +1364,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 5
             },
@@ -1388,10 +1388,10 @@
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 2
             }
@@ -1428,10 +1428,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 6
             },
@@ -1492,10 +1492,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 9
             },
@@ -1516,10 +1516,10 @@
                 "amount": 3
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 2
             }
@@ -1545,7 +1545,7 @@
     },
     {
         "id": 131,
-        "name": "Exotic Herbal Wine",
+        "name": "Makgeolli",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009262.webp",
         "grade": 1,
         "process": "Cooking",
@@ -1556,10 +1556,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 3
             },
@@ -1572,10 +1572,10 @@
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             },
@@ -1591,7 +1591,7 @@
         "products": [
             {
                 "id": "9262",
-                "name": "Exotic Herbal Wine",
+                "name": "Makgeolli",
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009262.webp",
@@ -1599,7 +1599,7 @@
             },
             {
                 "id": "9279",
-                "name": "Full-bodied Exotic Herbal Wine",
+                "name": "Full-Bodied Makgeolli",
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009279.webp",
@@ -1628,10 +1628,10 @@
                 "amount": 2
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 2
             },
@@ -1644,10 +1644,10 @@
                 "amount": 3
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 3
             }
@@ -1684,18 +1684,18 @@
         "exp": 1000,
         "materials": [
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 6
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 6
             },
@@ -1708,10 +1708,10 @@
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 4
             }
@@ -1748,26 +1748,26 @@
         "exp": 700,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 4
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 6
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 2
             },
@@ -1828,10 +1828,10 @@
                 "amount": 2
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 5
             },
@@ -1876,10 +1876,10 @@
         "exp": 1000,
         "materials": [
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 4
             },
@@ -1940,10 +1940,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "44",
+                "id": "7005",
                 "name": "Corn",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007005.webp",
                 "amount": 5
             },
@@ -1964,10 +1964,10 @@
                 "amount": 5
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             }
@@ -2004,34 +2004,34 @@
         "exp": 700,
         "materials": [
             {
-                "id": "9",
-                "name": "Plants",
+                "id": "7319",
+                "name": "Rose",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007319.webp",
                 "amount": 4
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 4
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 7
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 3
             }
@@ -2068,18 +2068,18 @@
         "exp": 700,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 8
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
@@ -2140,10 +2140,10 @@
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 6
             },
@@ -2156,10 +2156,10 @@
                 "amount": 1
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 1
             }
@@ -2196,18 +2196,18 @@
         "exp": 700,
         "materials": [
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 7
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 4
             },
@@ -2260,18 +2260,18 @@
         "exp": 1000,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 8
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 5
             },
@@ -2332,18 +2332,18 @@
         "exp": 700,
         "materials": [
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 5
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 3
             },
@@ -2364,10 +2364,10 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             }
@@ -2404,10 +2404,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "46",
-                "name": "Meat 2",
+                "id": "7908",
+                "name": "Lizard Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007908.webp",
                 "amount": 6
             },
@@ -2428,10 +2428,10 @@
                 "amount": 3
             },
             {
-                "id": "44",
+                "id": "7005",
                 "name": "Corn",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007005.webp",
                 "amount": 7
             }
@@ -2468,18 +2468,18 @@
         "exp": 400,
         "materials": [
             {
-                "id": "6",
-                "name": "Fish",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8210",
+                "name": "Rockfish",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008210.webp",
                 "amount": 1
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 3
             },
@@ -2548,10 +2548,10 @@
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 2
             }
@@ -2588,10 +2588,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "8",
-                "name": "Dried fish",
+                "id": "8501",
+                "name": "Dried Mudskipper",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008501.webp",
                 "amount": 2
             },
@@ -2604,18 +2604,18 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 3
             }
@@ -2652,18 +2652,18 @@
         "exp": 700,
         "materials": [
             {
-                "id": "46",
-                "name": "Meat 2",
+                "id": "7908",
+                "name": "Lizard Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007908.webp",
                 "amount": 6
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 6
             },
@@ -2716,10 +2716,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "10",
-                "name": "Seafood",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8211",
+                "name": "Squid",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008211.webp",
                 "amount": 1
             },
@@ -2732,18 +2732,18 @@
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 6
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             }
@@ -2780,10 +2780,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "6",
-                "name": "Fish",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8210",
+                "name": "Rockfish",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008210.webp",
                 "amount": 1
             },
@@ -2796,10 +2796,10 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 4
             },
@@ -2844,18 +2844,18 @@
         "exp": 700,
         "materials": [
             {
-                "id": "10",
-                "name": "Seafood",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8211",
+                "name": "Squid",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008211.webp",
                 "amount": 1
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 5
             },
@@ -2908,18 +2908,18 @@
         "exp": 400,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 5
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 2
             },
@@ -2932,10 +2932,10 @@
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 3
             }
@@ -2980,18 +2980,18 @@
                 "amount": 1
             },
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 7
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 6
             },
@@ -3036,18 +3036,18 @@
         "exp": 700,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 5
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 4
             },
@@ -3100,10 +3100,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "6",
-                "name": "Fish",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8210",
+                "name": "Rockfish",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008210.webp",
                 "amount": 1
             },
@@ -3116,10 +3116,10 @@
                 "amount": 1
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             }
@@ -3156,18 +3156,18 @@
         "exp": 700,
         "materials": [
             {
-                "id": "6",
-                "name": "Fish",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8210",
+                "name": "Rockfish",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008210.webp",
                 "amount": 1
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 3
             },
@@ -3180,10 +3180,10 @@
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 6
             }
@@ -3220,18 +3220,18 @@
         "exp": 400,
         "materials": [
             {
-                "id": "10",
-                "name": "Seafood",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8211",
+                "name": "Squid",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008211.webp",
                 "amount": 1
             },
             {
-                "id": "53",
-                "name": "Mushrooms",
+                "id": "5407",
+                "name": "Fortune Teller Mushroom",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00005407.webp",
                 "amount": 1
             },
@@ -3276,18 +3276,18 @@
         "exp": 400,
         "materials": [
             {
-                "id": "10",
-                "name": "Seafood",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8211",
+                "name": "Squid",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008211.webp",
                 "amount": 1
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 4
             },
@@ -3340,10 +3340,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "10",
-                "name": "Seafood",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8211",
+                "name": "Squid",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008211.webp",
                 "amount": 1
             },
@@ -3356,10 +3356,10 @@
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
@@ -3420,18 +3420,18 @@
                 "amount": 1
             },
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 5
             },
             {
-                "id": "17",
-                "name": "Blood 2",
+                "id": "6201",
+                "name": "Deer Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006201.webp",
                 "amount": 7
             }
@@ -3468,10 +3468,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "6",
-                "name": "Fish",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8210",
+                "name": "Rockfish",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008210.webp",
                 "amount": 1
             },
@@ -3532,10 +3532,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 5
             },
@@ -3556,10 +3556,10 @@
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 4
             }
@@ -3596,10 +3596,10 @@
         "exp": 1000,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 8
             },
@@ -3660,10 +3660,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 7
             },
@@ -3724,10 +3724,10 @@
         "exp": 400,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 6
             },
@@ -3748,10 +3748,10 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             }
@@ -3812,18 +3812,18 @@
                 "amount": 4
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 6
             }
@@ -3835,7 +3835,7 @@
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009455.webp",
-                "amount": 14
+                "amount": 1
             },
             {
                 "id": "9457",
@@ -3843,7 +3843,7 @@
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009457.webp",
-                "amount": 12
+                "amount": 1
             }
         ]
     },
@@ -3868,10 +3868,10 @@
                 "amount": 1
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 6
             },
@@ -4181,7 +4181,7 @@
             },
             {
                 "id": "9262",
-                "name": "Exotic Herbal Wine",
+                "name": "Makgeolli",
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009262.webp",
@@ -4276,34 +4276,34 @@
         "exp": 800,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 6
             },
             {
-                "id": "6",
-                "name": "Fish",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8210",
+                "name": "Rockfish",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008210.webp",
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 3
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7105",
+                "name": "Corn Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007105.webp",
                 "amount": 4
             }
@@ -4340,26 +4340,26 @@
                 "amount": 2
             },
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 5
             },
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 4
             },
             {
-                "id": "6",
-                "name": "Fish",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8210",
+                "name": "Rockfish",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008210.webp",
                 "amount": 1
             }
@@ -4388,18 +4388,18 @@
         "exp": 1000,
         "materials": [
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 4
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 6
             },
@@ -4460,26 +4460,26 @@
                 "amount": 2
             },
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7906",
+                "name": "Beef",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007906.webp",
                 "amount": 5
             },
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 4
             },
             {
-                "id": "8",
-                "name": "Dried fish",
+                "id": "8509",
+                "name": "Dried Saurel",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008509.webp",
                 "amount": 1
             }
@@ -4508,18 +4508,18 @@
         "exp": 1000,
         "materials": [
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7205",
+                "name": "Corn Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007205.webp",
                 "amount": 4
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 6
             },
@@ -4581,7 +4581,7 @@
             },
             {
                 "id": "9262",
-                "name": "Exotic Herbal Wine",
+                "name": "Makgeolli",
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009262.webp",
@@ -4596,18 +4596,18 @@
                 "amount": 2
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7304",
+                "name": "Strawberry",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007304.webp",
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             }
@@ -4660,10 +4660,10 @@
                 "amount": 2
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7201",
+                "name": "Wheat Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007201.webp",
                 "amount": 5
             },
@@ -4724,10 +4724,10 @@
                 "amount": 3
             },
             {
-                "id": "6",
-                "name": "Fish",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "8201",
+                "name": "Mudskipper",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00008201.webp",
                 "amount": 1
             },
@@ -4740,10 +4740,10 @@
                 "amount": 2
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7201",
+                "name": "Wheat Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007201.webp",
                 "amount": 3
             },
@@ -4788,10 +4788,10 @@
         "exp": 800,
         "materials": [
             {
-                "id": "49",
-                "name": "Meat 4",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "9731",
+                "name": "Soft Whale Meat",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009731.webp",
                 "amount": 1
             },
@@ -4884,10 +4884,10 @@
                 "amount": 6
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 6
             }
@@ -5060,10 +5060,10 @@
         "exp": 1600,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7923",
+                "name": "Lion Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007923.webp",
                 "amount": 4
             },
@@ -5132,18 +5132,18 @@
                 "amount": 5
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
@@ -5168,7 +5168,7 @@
             {
                 "id": "9299",
                 "name": "Spongy Teff Bread",
-                "grade": 1,
+                "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009299.webp",
                 "amount": 12
@@ -5212,10 +5212,10 @@
                 "amount": 3
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7311",
+                "name": "Tomato",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007311.webp",
                 "amount": 4
             }
@@ -5316,10 +5316,10 @@
         "exp": 1000,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7924",
+                "name": "Scorpion Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007924.webp",
                 "amount": 3
             },
@@ -5388,18 +5388,18 @@
                 "amount": 5
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7201",
+                "name": "Wheat Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007201.webp",
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
@@ -5424,7 +5424,7 @@
             {
                 "id": "9301",
                 "name": "Sweet Fig Pie",
-                "grade": 1,
+                "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009301.webp",
                 "amount": 12
@@ -5444,10 +5444,10 @@
         "exp": 700,
         "materials": [
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             },
@@ -5460,10 +5460,10 @@
                 "amount": 6
             },
             {
-                "id": "46",
-                "name": "Meat 2",
+                "id": "7922",
+                "name": "Snake Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007922.webp",
                 "amount": 3
             },
@@ -5488,7 +5488,7 @@
             {
                 "id": "9300",
                 "name": "Thick Freekeh Snake Stew",
-                "grade": 1,
+                "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009300.webp",
                 "amount": 12
@@ -5524,10 +5524,10 @@
                 "amount": 2
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             },
@@ -5552,74 +5552,10 @@
             {
                 "id": "9304",
                 "name": "Mild Date Palm Wine",
-                "grade": 1,
+                "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009304.webp",
                 "amount": 12
-            }
-        ]
-    },
-    {
-        "id": 204,
-        "name": "Beer",
-        "icon": "/items/new_icon/03_etc/07_productmaterial/00009213.webp",
-        "grade": 1,
-        "process": "Cooking",
-        "mastery": {
-            "name": "Beginner",
-            "level": 1
-        },
-        "exp": 400,
-        "materials": [
-            {
-                "id": "44",
-                "name": "Corn",
-                "grade": 0,
-                "type": "materialgroup",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00007005.webp",
-                "amount": 5
-            },
-            {
-                "id": "58",
-                "name": "Water",
-                "grade": 0,
-                "type": "materialgroup",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
-                "amount": 6
-            },
-            {
-                "id": "59",
-                "name": "Sugar",
-                "grade": 0,
-                "type": "materialgroup",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
-                "amount": 1
-            },
-            {
-                "id": "9005",
-                "name": "Leavening Agent",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00009005.webp",
-                "amount": 2
-            }
-        ],
-        "products": [
-            {
-                "id": "9213",
-                "name": "Beer",
-                "grade": 1,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00009213.webp",
-                "amount": 1
-            },
-            {
-                "id": "9283",
-                "name": "Cold Draft Beer",
-                "grade": 2,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00009283.webp",
-                "amount": 1
             }
         ]
     },
@@ -5652,10 +5588,10 @@
                 "amount": 2
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7101",
+                "name": "Wheat Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007101.webp",
                 "amount": 5
             },
@@ -5708,10 +5644,10 @@
         "exp": 800,
         "materials": [
             {
-                "id": "50",
-                "name": "Seafood 2",
+                "id": "6520",
+                "name": "Dried Pearl Oyster Flesh",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006520.webp",
                 "amount": 2
             },
@@ -5804,10 +5740,10 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             }
@@ -5824,7 +5760,7 @@
             {
                 "id": "9302",
                 "name": "Savory Pistachio Fried Rice",
-                "grade": 1,
+                "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009302.webp",
                 "amount": 12
@@ -5860,10 +5796,10 @@
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
@@ -5924,10 +5860,10 @@
                 "amount": 4
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7312",
+                "name": "Paprika",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007312.webp",
                 "amount": 3
             },
@@ -5948,10 +5884,10 @@
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 4
             }
@@ -5977,7 +5913,7 @@
     },
     {
         "id": 211,
-        "name": "Butter-Roasted Lobster",
+        "name": "Butter-roasted Lobster",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00009477.webp",
         "grade": 1,
         "process": "Cooking",
@@ -6004,10 +5940,10 @@
                 "amount": 4
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 5
             },
@@ -6031,7 +5967,7 @@
         "products": [
             {
                 "id": "9477",
-                "name": "Butter-Roasted Lobster",
+                "name": "Butter-roasted Lobster",
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009477.webp",
@@ -6039,7 +5975,7 @@
             },
             {
                 "id": "9478",
-                "name": "Golden Butter-Roasted Lobster",
+                "name": "Golden Butter-roasted Lobster",
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009478.webp",
@@ -6085,7 +6021,7 @@
             },
             {
                 "id": "9477",
-                "name": "Butter-Roasted Lobster",
+                "name": "Butter-roasted Lobster",
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009477.webp",
@@ -6124,10 +6060,10 @@
         "exp": 800,
         "materials": [
             {
-                "id": "49",
-                "name": "Meat 4",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "9731",
+                "name": "Soft Whale Meat",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009731.webp",
                 "amount": 1
             },
@@ -6268,10 +6204,10 @@
                 "amount": 1
             },
             {
-                "id": "47",
-                "name": "Meat 3",
+                "id": "7913",
+                "name": "Wolf Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007913.webp",
                 "amount": 2
             },
@@ -6284,10 +6220,10 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 3
             },
@@ -6413,7 +6349,7 @@
             },
             {
                 "id": "9262",
-                "name": "Exotic Herbal Wine",
+                "name": "Makgeolli",
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009262.webp",
@@ -6500,18 +6436,18 @@
                 "amount": 5
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 5
             }
@@ -6557,25 +6493,25 @@
             },
             {
                 "id": "9279",
-                "name": "Full-bodied Exotic Herbal Wine",
+                "name": "Full-Bodied Makgeolli",
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009279.webp",
                 "amount": 4
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 10
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 2
             }
@@ -6604,10 +6540,10 @@
         "exp": 500,
         "materials": [
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 2
             },
@@ -6620,10 +6556,10 @@
                 "amount": 6
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 1
             },
@@ -6676,18 +6612,18 @@
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 2
             },
             {
-                "id": "40",
+                "id": "7001",
                 "name": "Wheat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.webp",
                 "amount": 3
             }
@@ -6740,10 +6676,10 @@
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
@@ -6804,10 +6740,10 @@
                 "amount": 5
             },
             {
-                "id": "40",
+                "id": "7001",
                 "name": "Wheat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.webp",
                 "amount": 2
             },
@@ -6820,10 +6756,10 @@
                 "amount": 5
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
@@ -6956,18 +6892,18 @@
                 "amount": 5
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             },
@@ -7140,10 +7076,10 @@
         "exp": 0,
         "materials": [
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7923",
+                "name": "Lion Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007923.webp",
                 "amount": 4
             },
@@ -7204,10 +7140,10 @@
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "6656",
+                "name": "Purified Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006656.webp",
                 "amount": 3
             },
@@ -7220,10 +7156,10 @@
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
@@ -7268,10 +7204,10 @@
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 6
             },
@@ -7284,10 +7220,10 @@
                 "amount": 3
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
@@ -7324,10 +7260,10 @@
         "exp": 0,
         "materials": [
             {
-                "id": "50",
-                "name": "Seafood 2",
+                "id": "6520",
+                "name": "Dried Pearl Oyster Flesh",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006520.webp",
                 "amount": 1
             },
@@ -7340,10 +7276,10 @@
                 "amount": 2
             },
             {
-                "id": "4",
-                "name": "Meat 1",
+                "id": "7905",
+                "name": "Pork",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
                 "amount": 2
             },
@@ -7412,10 +7348,10 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 1
             }
@@ -7452,18 +7388,18 @@
         "exp": 300,
         "materials": [
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 5
             },
             {
-                "id": "1",
-                "name": "Cereals",
+                "id": "7001",
+                "name": "Wheat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.webp",
                 "amount": 5
             },
@@ -7516,18 +7452,18 @@
         "exp": 300,
         "materials": [
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 5
             },
             {
-                "id": "1",
-                "name": "Cereals",
+                "id": "7001",
+                "name": "Wheat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.webp",
                 "amount": 5
             },
@@ -7580,26 +7516,26 @@
         "exp": 400,
         "materials": [
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 5
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 5
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 5
             },
@@ -7660,26 +7596,26 @@
                 "amount": 4
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 5
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "6656",
+                "name": "Purified Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006656.webp",
                 "amount": 3
             }
@@ -7724,26 +7660,26 @@
                 "amount": 4
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 5
             },
             {
-                "id": "59",
-                "name": "Sugar",
+                "id": "9009",
+                "name": "Raw Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009009.webp",
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "6656",
+                "name": "Purified Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006656.webp",
                 "amount": 3
             }
@@ -7796,18 +7732,18 @@
                 "amount": 3
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "6656",
+                "name": "Purified Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006656.webp",
                 "amount": 3
             }
@@ -7860,10 +7796,10 @@
                 "amount": 2
             },
             {
-                "id": "5",
-                "name": "Flour",
+                "id": "7101",
+                "name": "Wheat Flour",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007101.webp",
                 "amount": 5
             },
@@ -7876,10 +7812,10 @@
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "6656",
+                "name": "Purified Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006656.webp",
                 "amount": 3
             }
@@ -7924,10 +7860,10 @@
                 "amount": 5
             },
             {
-                "id": "16",
-                "name": "Blood 1",
+                "id": "6214",
+                "name": "Wolf Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006214.webp",
                 "amount": 7
             },
@@ -7948,10 +7884,10 @@
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "6656",
+                "name": "Purified Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006656.webp",
                 "amount": 3
             }
@@ -8004,10 +7940,10 @@
                 "amount": 1
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 2
             },
@@ -8068,10 +8004,10 @@
                 "amount": 1
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 2
             },
@@ -8124,10 +8060,10 @@
                 "amount": 3
             },
             {
-                "id": "4",
-                "name": "Meat 1",
+                "id": "7905",
+                "name": "Pork",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
                 "amount": 6
             },
@@ -8148,10 +8084,10 @@
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             }
@@ -8340,10 +8276,10 @@
                 "amount": 5
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 1
             }
@@ -8380,10 +8316,10 @@
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 1
             }
@@ -8420,10 +8356,10 @@
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 1
             }
@@ -8476,10 +8412,10 @@
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 2
             }
@@ -8524,10 +8460,10 @@
                 "amount": 2
             },
             {
-                "id": "42",
+                "id": "7003",
                 "name": "Potato",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007003.webp",
                 "amount": 5
             },
@@ -8540,18 +8476,18 @@
                 "amount": 1
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             }
@@ -8596,10 +8532,10 @@
                 "amount": 3
             },
             {
-                "id": "45",
-                "name": "Meat 5",
+                "id": "7905",
+                "name": "Pork",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
                 "amount": 5
             },
@@ -8620,10 +8556,10 @@
                 "amount": 2
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 3
             }
@@ -8668,10 +8604,10 @@
                 "amount": 2
             },
             {
-                "id": "40",
+                "id": "7001",
                 "name": "Wheat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.webp",
                 "amount": 5
             },
@@ -8684,18 +8620,18 @@
                 "amount": 1
             },
             {
-                "id": "60",
+                "id": "9001",
                 "name": "Salt",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 3
             }
@@ -8740,10 +8676,10 @@
                 "amount": 2
             },
             {
-                "id": "40",
+                "id": "7001",
                 "name": "Wheat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.webp",
                 "amount": 5
             },
@@ -8820,10 +8756,10 @@
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             },
@@ -8884,10 +8820,10 @@
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             },
@@ -8948,10 +8884,10 @@
                 "amount": 3
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             },
@@ -9012,18 +8948,18 @@
                 "amount": 1
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 1
             }
@@ -9068,18 +9004,18 @@
                 "amount": 1
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 1
             }
@@ -9124,18 +9060,18 @@
                 "amount": 1
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 1
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 1
             }
@@ -9172,26 +9108,26 @@
                 "amount": 1
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 1
             }
@@ -9236,26 +9172,26 @@
                 "amount": 5
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 1
             }
@@ -9300,26 +9236,26 @@
                 "amount": 2
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 5
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 1
             }
@@ -9580,10 +9516,10 @@
                 "amount": 2
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 2
             },
@@ -9636,10 +9572,10 @@
                 "amount": 2
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 3
             },
@@ -9652,10 +9588,10 @@
                 "amount": 3
             },
             {
-                "id": "40",
+                "id": "7001",
                 "name": "Wheat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007001.webp",
                 "amount": 5
             }
@@ -9716,10 +9652,10 @@
                 "amount": 4
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 5
             }
@@ -9780,10 +9716,10 @@
                 "amount": 4
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 5
             }
@@ -9844,10 +9780,10 @@
                 "amount": 4
             },
             {
-                "id": "13",
-                "name": "Vegetables",
+                "id": "7318",
+                "name": "Cabbage",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007318.webp",
                 "amount": 5
             }
@@ -9892,10 +9828,10 @@
                 "amount": 3
             },
             {
-                "id": "58",
-                "name": "Water",
+                "id": "9059",
+                "name": "Mineral Water",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
                 "amount": 2
             },
@@ -9916,10 +9852,10 @@
                 "amount": 1
             },
             {
-                "id": "7",
-                "name": "Bird meat",
+                "id": "7921",
+                "name": "Chicken Meat",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007921.webp",
                 "amount": 1
             }
@@ -9956,18 +9892,18 @@
                 "amount": 1
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 2
             },
             {
-                "id": "59",
+                "id": "9002",
                 "name": "Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
                 "amount": 3
             }
@@ -10004,18 +9940,18 @@
                 "amount": 1
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 1
             },
             {
-                "id": "59",
-                "name": "Sugar",
+                "id": "9009",
+                "name": "Raw Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009009.webp",
                 "amount": 1
             }
@@ -10060,18 +9996,18 @@
                 "amount": 1
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 1
             },
             {
-                "id": "59",
-                "name": "Sugar",
+                "id": "9009",
+                "name": "Raw Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009009.webp",
                 "amount": 1
             }
@@ -10116,18 +10052,18 @@
                 "amount": 1
             },
             {
-                "id": "48",
-                "name": "Honey",
+                "id": "7702",
+                "name": "Cooking Honey",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
                 "amount": 1
             },
             {
-                "id": "59",
-                "name": "Sugar",
+                "id": "9009",
+                "name": "Raw Sugar",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009009.webp",
                 "amount": 1
             }
@@ -10316,10 +10252,10 @@
                 "amount": 6
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7201",
+                "name": "Wheat Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007201.webp",
                 "amount": 3
             },
@@ -10380,10 +10316,10 @@
                 "amount": 6
             },
             {
-                "id": "2",
-                "name": "Dough",
+                "id": "7201",
+                "name": "Wheat Dough",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007201.webp",
                 "amount": 3
             },
@@ -10419,6 +10355,1614 @@
                 "grade": 1,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00009256.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 438,
+        "name": "White Kimchi",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820801.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820121",
+                "name": "High-quality Napa Cabbage",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820120.webp",
+                "amount": 2
+            },
+            {
+                "id": "7303",
+                "name": "Onion",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007303.webp",
+                "amount": 1
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.webp",
+                "amount": 4
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820801",
+                "name": "White Kimchi",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820801.webp",
+                "amount": 1
+            },
+            {
+                "id": "820802",
+                "name": "Fresh White Kimchi",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820802.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 439,
+        "name": "White Kimchi",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820801.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820122",
+                "name": "Special Napa Cabbage",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820120.webp",
+                "amount": 1
+            },
+            {
+                "id": "7303",
+                "name": "Onion",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007303.webp",
+                "amount": 1
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.webp",
+                "amount": 4
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820801",
+                "name": "White Kimchi",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820801.webp",
+                "amount": 1
+            },
+            {
+                "id": "820802",
+                "name": "Fresh White Kimchi",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820802.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 440,
+        "name": "White Kimchi",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820801.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820120",
+                "name": "Napa Cabbage",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820120.webp",
+                "amount": 5
+            },
+            {
+                "id": "7303",
+                "name": "Onion",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007303.webp",
+                "amount": 1
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.webp",
+                "amount": 4
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820801",
+                "name": "White Kimchi",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820801.webp",
+                "amount": 1
+            },
+            {
+                "id": "820802",
+                "name": "Fresh White Kimchi",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820802.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 441,
+        "name": "Dongchimi",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820805.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820123",
+                "name": "Radish",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820123.webp",
+                "amount": 5
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.webp",
+                "amount": 2
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "820805",
+                "name": "Dongchimi",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820805.webp",
+                "amount": 1
+            },
+            {
+                "id": "820806",
+                "name": "Sour Dongchimi",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820806.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 442,
+        "name": "Dongchimi",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820805.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820124",
+                "name": "High-quality Radish",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820123.webp",
+                "amount": 2
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.webp",
+                "amount": 2
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "820805",
+                "name": "Dongchimi",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820805.webp",
+                "amount": 1
+            },
+            {
+                "id": "820806",
+                "name": "Sour Dongchimi",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820806.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 443,
+        "name": "Dongchimi",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820805.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820125",
+                "name": "Special Radish",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820123.webp",
+                "amount": 1
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.webp",
+                "amount": 2
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 5
+            }
+        ],
+        "products": [
+            {
+                "id": "820805",
+                "name": "Dongchimi",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820805.webp",
+                "amount": 1
+            },
+            {
+                "id": "820806",
+                "name": "Sour Dongchimi",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820806.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 444,
+        "name": "Bean Sprout Salad",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820811.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9073",
+                "name": "Bean Sprouts",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009073.webp",
+                "amount": 5
+            },
+            {
+                "id": "820126",
+                "name": "Perilla",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820126.webp",
+                "amount": 1
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9077",
+                "name": "Red Pepper Powder",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009077.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820811",
+                "name": "Bean Sprout Salad",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820811.webp",
+                "amount": 1
+            },
+            {
+                "id": "820812",
+                "name": "Crunchy Bean Sprout Salad",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820812.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 445,
+        "name": "Cooked Rice",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820130",
+                "name": "Special Rice",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820126.webp",
+                "amount": 1
+            },
+            {
+                "id": "9024",
+                "name": "Spring Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009024.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "820816",
+                "name": "Steaming Cooked Rice",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820816.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 446,
+        "name": "Cooked Rice",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820129",
+                "name": "High-quality Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820126.webp",
+                "amount": 2
+            },
+            {
+                "id": "9024",
+                "name": "Spring Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009024.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "820816",
+                "name": "Steaming Cooked Rice",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820816.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 447,
+        "name": "Cooked Rice",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820117",
+                "name": "Rice",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820117.webp",
+                "amount": 5
+            },
+            {
+                "id": "9024",
+                "name": "Spring Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009024.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "820816",
+                "name": "Steaming Cooked Rice",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820816.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 448,
+        "name": "Soybean Jjigae",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820819.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9076",
+                "name": "Soybean Paste",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009076.webp",
+                "amount": 3
+            },
+            {
+                "id": "7905",
+                "name": "Pork",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
+                "amount": 1
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.webp",
+                "amount": 2
+            },
+            {
+                "id": "9075",
+                "name": "Soy Sauce",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009075.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "820819",
+                "name": "Soybean Jjigae",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820819.webp",
+                "amount": 1
+            },
+            {
+                "id": "820820",
+                "name": "Savory Soybean Jjigae",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820820.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 449,
+        "name": "Mungbean Jeon",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820821.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9083",
+                "name": "Mungbean",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009083.webp",
+                "amount": 5
+            },
+            {
+                "id": "9072",
+                "name": "Perilla Oil",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009072.webp",
+                "amount": 1
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "7905",
+                "name": "Pork",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
+                "amount": 1
+            },
+            {
+                "id": "5532",
+                "name": "Bracken",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005532.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820821",
+                "name": "Mungbean Jeon",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820821.webp",
+                "amount": 1
+            },
+            {
+                "id": "820822",
+                "name": "Crispy Mungbean Jeon",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820822.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 450,
+        "name": "Buckwheat Jelly",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820823.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9082",
+                "name": "Buckwheat",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009082.webp",
+                "amount": 5
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            },
+            {
+                "id": "9075",
+                "name": "Soy Sauce",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009075.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820823",
+                "name": "Buckwheat Jelly",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820823.webp",
+                "amount": 1
+            },
+            {
+                "id": "820824",
+                "name": "Chewy Buckwheat Jelly",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820824.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 451,
+        "name": "Garaetteok",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820845.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820118",
+                "name": "Rice Flour",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820118.webp",
+                "amount": 5
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820845",
+                "name": "Garaetteok",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820845.webp",
+                "amount": 1
+            },
+            {
+                "id": "820846",
+                "name": "Chewy Garaetteok",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820846.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 452,
+        "name": "Skewer",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820829.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "7905",
+                "name": "Pork",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
+                "amount": 5
+            },
+            {
+                "id": "820845",
+                "name": "Garaetteok",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820845.webp",
+                "amount": 2
+            },
+            {
+                "id": "9023",
+                "name": "Matsul",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009023.webp",
+                "amount": 1
+            },
+            {
+                "id": "9075",
+                "name": "Soy Sauce",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009075.webp",
+                "amount": 1
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820829",
+                "name": "Skewer",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820829.webp",
+                "amount": 1
+            },
+            {
+                "id": "820830",
+                "name": "Soft Skewer",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820830.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 453,
+        "name": "Nurungji",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820831.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "9021",
+                "name": "Corn Oil",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009021.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820831",
+                "name": "Nurungji",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820831.webp",
+                "amount": 1
+            },
+            {
+                "id": "820832",
+                "name": "Crispy Nurungji",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820832.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 454,
+        "name": "Sungnyung",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820833.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820831",
+                "name": "Nurungji",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820831.webp",
+                "amount": 2
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "820833",
+                "name": "Sungnyung",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820833.webp",
+                "amount": 1
+            },
+            {
+                "id": "820834",
+                "name": "Savory Sungnyung",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820834.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 455,
+        "name": "Jujube Tea",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820839.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Apprentice",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820114",
+                "name": "Jujube",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820114.webp",
+                "amount": 5
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            },
+            {
+                "id": "7702",
+                "name": "Cooking Honey",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007702.webp",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "820839",
+                "name": "Jujube Tea",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820839.webp",
+                "amount": 1
+            },
+            {
+                "id": "820840",
+                "name": "Fragrant Jujube Tea",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820840.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 456,
+        "name": "Roasted Ginkgo",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820843.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820116",
+                "name": "Ginkgo",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820116.webp",
+                "amount": 4
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9072",
+                "name": "Perilla Oil",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009072.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820843",
+                "name": "Roasted Ginkgo",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820843.webp",
+                "amount": 1
+            },
+            {
+                "id": "820844",
+                "name": "Savory Roasted Ginkgo",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820844.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 457,
+        "name": "Red Bean Sirutteok",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820849.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Beginner",
+            "level": 6
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9080",
+                "name": "Red Bean",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009080.webp",
+                "amount": 4
+            },
+            {
+                "id": "820118",
+                "name": "Rice Flour",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820118.webp",
+                "amount": 3
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820849",
+                "name": "Red Bean Sirutteok",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820849.webp",
+                "amount": 1
+            },
+            {
+                "id": "820850",
+                "name": "Soft Red Bean Sirutteok",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820850.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 458,
+        "name": "Moodle Gukbap",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820862.webp",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820118",
+                "name": "Rice Flour",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820118.webp",
+                "amount": 2
+            },
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            },
+            {
+                "id": "7302",
+                "name": "Garlic",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007302.webp",
+                "amount": 2
+            },
+            {
+                "id": "7905",
+                "name": "Pork",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "820856",
+                "name": "Moodle Gukbap",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820862.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 459,
+        "name": "Dalbeol Gukbap",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820863.webp",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820104",
+                "name": "Goosefoot Leaf",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820104.webp",
+                "amount": 2
+            },
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            },
+            {
+                "id": "5532",
+                "name": "Bracken",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005532.webp",
+                "amount": 2
+            },
+            {
+                "id": "9077",
+                "name": "Red Pepper Powder",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009077.webp",
+                "amount": 3
+            }
+        ],
+        "products": [
+            {
+                "id": "820857",
+                "name": "Dalbeol Gukbap",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820863.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 460,
+        "name": "Byeot County Gukbap",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820864.webp",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820121",
+                "name": "High-quality Napa Cabbage",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820120.webp",
+                "amount": 1
+            },
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            },
+            {
+                "id": "820123",
+                "name": "Radish",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820123.webp",
+                "amount": 2
+            },
+            {
+                "id": "7905",
+                "name": "Pork",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820858",
+                "name": "Byeot County Gukbap",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820864.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 461,
+        "name": "Byeot County Gukbap",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820864.webp",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820122",
+                "name": "Special Napa Cabbage",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820120.webp",
+                "amount": 1
+            },
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            },
+            {
+                "id": "820123",
+                "name": "Radish",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820123.webp",
+                "amount": 2
+            },
+            {
+                "id": "7905",
+                "name": "Pork",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820858",
+                "name": "Byeot County Gukbap",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820864.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 462,
+        "name": "Byeot County Gukbap",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820864.webp",
+        "grade": 3,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "820120",
+                "name": "Napa Cabbage",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820120.webp",
+                "amount": 2
+            },
+            {
+                "id": "820815",
+                "name": "Cooked Rice",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820815.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            },
+            {
+                "id": "820123",
+                "name": "Radish",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820123.webp",
+                "amount": 2
+            },
+            {
+                "id": "7905",
+                "name": "Pork",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00007905.webp",
+                "amount": 2
+            }
+        ],
+        "products": [
+            {
+                "id": "820858",
+                "name": "Byeot County Gukbap",
+                "grade": 3,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820864.webp",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 463,
+        "name": "Red Bean Porridge",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00820825.webp",
+        "grade": 1,
+        "process": "Cooking",
+        "mastery": {
+            "name": "Artisan",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "9080",
+                "name": "Red Bean",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009080.webp",
+                "amount": 5
+            },
+            {
+                "id": "820118",
+                "name": "Rice Flour",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820118.webp",
+                "amount": 5
+            },
+            {
+                "id": "9001",
+                "name": "Salt",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+                "amount": 1
+            },
+            {
+                "id": "9059",
+                "name": "Mineral Water",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+                "amount": 1
+            }
+        ],
+        "products": [
+            {
+                "id": "820825",
+                "name": "Red Bean Porridge",
+                "grade": 1,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820825.webp",
+                "amount": 1
+            },
+            {
+                "id": "820826",
+                "name": "Red Bean Porridge Full of Tteok",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00820826.webp",
                 "amount": 1
             }
         ]
