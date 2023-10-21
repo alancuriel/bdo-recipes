@@ -564,10 +564,10 @@
                 "amount": 1
             },
             {
-                "id": "18",
-                "name": "Blood 3",
+                "id": "6203",
+                "name": "Fox Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006203.webp",
                 "amount": 4
             },
@@ -636,10 +636,10 @@
                 "amount": 1
             },
             {
-                "id": "15",
-                "name": "Blood 4",
+                "id": "6213",
+                "name": "Bear Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006213.webp",
                 "amount": 4
             },
@@ -964,10 +964,10 @@
                 "amount": 1
             },
             {
-                "id": "16",
-                "name": "Blood 1",
+                "id": "6214",
+                "name": "Wolf Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006214.webp",
                 "amount": 4
             },
@@ -1180,10 +1180,10 @@
                 "amount": 2
             },
             {
-                "id": "15",
-                "name": "Blood 4",
+                "id": "6213",
+                "name": "Bear Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006213.webp",
                 "amount": 3
             }
@@ -1236,10 +1236,10 @@
                 "amount": 4
             },
             {
-                "id": "16",
-                "name": "Blood 1",
+                "id": "6214",
+                "name": "Wolf Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006214.webp",
                 "amount": 6
             },
@@ -1300,10 +1300,10 @@
                 "amount": 1
             },
             {
-                "id": "15",
-                "name": "Blood 4",
+                "id": "6213",
+                "name": "Bear Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006213.webp",
                 "amount": 4
             },
@@ -1364,10 +1364,10 @@
                 "amount": 1
             },
             {
-                "id": "16",
-                "name": "Blood 1",
+                "id": "6214",
+                "name": "Wolf Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006214.webp",
                 "amount": 7
             },
@@ -1428,10 +1428,10 @@
                 "amount": 3
             },
             {
-                "id": "18",
-                "name": "Blood 3",
+                "id": "6203",
+                "name": "Fox Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006203.webp",
                 "amount": 5
             },
@@ -1692,10 +1692,10 @@
                 "amount": 6
             },
             {
-                "id": "17",
-                "name": "Blood 2",
+                "id": "6205",
+                "name": "Pig Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006205.webp",
                 "amount": 5
             },
@@ -1908,10 +1908,10 @@
                 "amount": 5
             },
             {
-                "id": "15",
-                "name": "Blood 4",
+                "id": "6213",
+                "name": "Bear Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006213.webp",
                 "amount": 4
             }
@@ -2092,10 +2092,10 @@
                 "amount": 1
             },
             {
-                "id": "3",
-                "name": "Fruits",
+                "id": "7313",
+                "name": "Apple",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00007313.webp",
                 "amount": 2
             },
@@ -2148,10 +2148,10 @@
                 "amount": 1
             },
             {
-                "id": "17",
-                "name": "Blood 2",
+                "id": "6205",
+                "name": "Pig Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006205.webp",
                 "amount": 2
             },
@@ -3132,10 +3132,10 @@
                 "amount": 1
             },
             {
-                "id": "19",
-                "name": "Blood 5",
+                "id": "6219",
+                "name": "Bat Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006219.webp",
                 "amount": 2
             }
@@ -3188,10 +3188,10 @@
                 "amount": 1
             },
             {
-                "id": "15",
-                "name": "Blood 4",
+                "id": "6213",
+                "name": "Bear Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006213.webp",
                 "amount": 2
             }
@@ -3244,10 +3244,10 @@
                 "amount": 1
             },
             {
-                "id": "16",
-                "name": "Blood 1",
+                "id": "6214",
+                "name": "Wolf Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006214.webp",
                 "amount": 2
             }
@@ -3300,10 +3300,10 @@
                 "amount": 1
             },
             {
-                "id": "17",
-                "name": "Blood 2",
+                "id": "6205",
+                "name": "Pig Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006205.webp",
                 "amount": 2
             }
@@ -3356,10 +3356,10 @@
                 "amount": 1
             },
             {
-                "id": "18",
-                "name": "Blood 3",
+                "id": "6203",
+                "name": "Fox Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006203.webp",
                 "amount": 2
             }
@@ -3668,10 +3668,10 @@
         "exp": 800,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             },
@@ -3692,18 +3692,18 @@
                 "amount": 8
             },
             {
-                "id": "18",
-                "name": "Blood 3",
+                "id": "6203",
+                "name": "Fox Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006203.webp",
                 "amount": 5
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -3756,18 +3756,18 @@
                 "amount": 7
             },
             {
-                "id": "17",
-                "name": "Blood 2",
+                "id": "6205",
+                "name": "Pig Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006205.webp",
                 "amount": 4
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -3820,18 +3820,18 @@
                 "amount": 9
             },
             {
-                "id": "16",
-                "name": "Blood 1",
+                "id": "6214",
+                "name": "Wolf Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006214.webp",
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -3884,18 +3884,18 @@
                 "amount": 8
             },
             {
-                "id": "15",
-                "name": "Blood 4",
+                "id": "6213",
+                "name": "Bear Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006213.webp",
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -3948,18 +3948,18 @@
                 "amount": 10
             },
             {
-                "id": "19",
-                "name": "Blood 5",
+                "id": "6219",
+                "name": "Bat Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006219.webp",
                 "amount": 5
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4020,10 +4020,10 @@
                 "amount": 4
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4084,10 +4084,10 @@
                 "amount": 4
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             }
@@ -4148,10 +4148,10 @@
                 "amount": 4
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             }
@@ -4212,10 +4212,10 @@
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4276,10 +4276,10 @@
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4340,10 +4340,10 @@
                 "amount": 5
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4404,10 +4404,10 @@
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4468,10 +4468,10 @@
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4532,10 +4532,10 @@
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4596,10 +4596,10 @@
                 "amount": 4
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             }
@@ -4652,18 +4652,18 @@
                 "amount": 2
             },
             {
-                "id": "18",
-                "name": "Blood 3",
+                "id": "6203",
+                "name": "Fox Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006203.webp",
                 "amount": 5
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4716,18 +4716,18 @@
                 "amount": 1
             },
             {
-                "id": "17",
-                "name": "Blood 2",
+                "id": "6205",
+                "name": "Pig Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006205.webp",
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4780,18 +4780,18 @@
                 "amount": 3
             },
             {
-                "id": "16",
-                "name": "Blood 1",
+                "id": "6214",
+                "name": "Wolf Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006214.webp",
                 "amount": 5
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4852,10 +4852,10 @@
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             }
@@ -4916,10 +4916,10 @@
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -4980,10 +4980,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5044,10 +5044,10 @@
                 "amount": 3
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5108,10 +5108,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5140,10 +5140,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5172,10 +5172,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5204,10 +5204,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5236,10 +5236,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5268,10 +5268,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5300,10 +5300,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5332,10 +5332,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5364,10 +5364,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5396,10 +5396,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5428,10 +5428,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5460,10 +5460,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5492,10 +5492,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5524,10 +5524,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5556,10 +5556,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5588,10 +5588,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5620,10 +5620,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5652,10 +5652,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5684,10 +5684,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5716,10 +5716,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5748,10 +5748,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5780,14 +5780,6 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
-                "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
-                "amount": 1
-            },
-            {
                 "id": "5206",
                 "name": "Essence of Nature",
                 "grade": 0,
@@ -5812,12 +5804,12 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
-                "amount": 1
+                "amount": 2
             }
         ],
         "products": [
@@ -5844,10 +5836,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5876,10 +5868,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5908,10 +5900,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -5940,10 +5932,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -5972,10 +5964,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -6004,10 +5996,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -6036,10 +6028,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -6068,10 +6060,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -6100,10 +6092,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -6132,10 +6124,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -6164,10 +6156,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -6196,10 +6188,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -6228,10 +6220,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -6260,10 +6252,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -6292,10 +6284,10 @@
         "exp": 1400,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15002",
+                "name": "Magic Crystal of Crimson Flame - Power",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045002_1.webp",
                 "amount": 1
             },
@@ -6324,10 +6316,10 @@
                 "amount": 2
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -7188,10 +7180,10 @@
                 "amount": 1
             },
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             }
@@ -7500,10 +7492,10 @@
         "exp": 800,
         "materials": [
             {
-                "id": "14",
-                "name": "Gemstones",
-                "grade": 0,
-                "type": "materialgroup",
+                "id": "15001",
+                "name": "Magic Crystal of Crimson Flame - Precision",
+                "grade": 1,
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/11_enchant_material/00045001_1.webp",
                 "amount": 1
             },
@@ -7609,8 +7601,8 @@
     },
     {
         "id": 224,
-        "name": "Broken Alchemy Stone Shard",
-        "icon": "/items/new_icon/03_etc/07_productmaterial/00009734.webp",
+        "name": "Imperfect Alchemy Stone of Destruction",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00045201.webp",
         "grade": 0,
         "process": "Alchemy",
         "mastery": {
@@ -7824,334 +7816,6 @@
         ]
     },
     {
-        "id": 337,
-        "name": "Imperfect Alchemy Stone of Destruction",
-        "icon": "/items/new_icon/03_etc/07_productmaterial/00045201.webp",
-        "grade": 0,
-        "process": "Alchemy",
-        "mastery": {
-            "name": "Beginner",
-            "level": 1
-        },
-        "exp": 0,
-        "materials": [
-            {
-                "id": "9733",
-                "name": "Shining Powder",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00009733.webp",
-                "amount": 10
-            },
-            {
-                "id": "6354",
-                "name": "Sinner's Blood",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00006354.webp",
-                "amount": 3
-            },
-            {
-                "id": "4805",
-                "name": "Powder of Time",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00004805.webp",
-                "amount": 5
-            },
-            {
-                "id": "5302",
-                "name": "Pure Powder Reagent",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.webp",
-                "amount": 10
-            },
-            {
-                "id": "5301",
-                "name": "Clear Liquid Reagent",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.webp",
-                "amount": 10
-            }
-        ],
-        "products": [
-            {
-                "id": "45201",
-                "name": " Imperfect Alchemy Stone of Destruction",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045201.webp",
-                "amount": 1
-            }
-        ]
-    },
-    {
-        "id": 338,
-        "name": "Imperfect Alchemy Stone of Protection",
-        "icon": "/items/new_icon/03_etc/07_productmaterial/00045233.webp",
-        "grade": 0,
-        "process": "Alchemy",
-        "mastery": {
-            "name": "Beginner",
-            "level": 1
-        },
-        "exp": 0,
-        "materials": [
-            {
-                "id": "6354",
-                "name": "Sinner's Blood",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00006354.webp",
-                "amount": 3
-            },
-            {
-                "id": "9733",
-                "name": "Shining Powder",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00009733.webp",
-                "amount": 10
-            },
-            {
-                "id": "4805",
-                "name": "Powder of Time",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00004805.webp",
-                "amount": 5
-            },
-            {
-                "id": "5302",
-                "name": "Pure Powder Reagent",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.webp",
-                "amount": 10
-            },
-            {
-                "id": "5301",
-                "name": "Clear Liquid Reagent",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.webp",
-                "amount": 10
-            }
-        ],
-        "products": [
-            {
-                "id": "45233",
-                "name": " Imperfect Alchemy Stone of Protection",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045233.webp",
-                "amount": 1
-            }
-        ]
-    },
-    {
-        "id": 339,
-        "name": "Imperfect Alchemy Stone of Life",
-        "icon": "/items/new_icon/03_etc/07_productmaterial/00045265.webp",
-        "grade": 0,
-        "process": "Alchemy",
-        "mastery": {
-            "name": "Beginner",
-            "level": 1
-        },
-        "exp": 0,
-        "materials": [
-            {
-                "id": "9733",
-                "name": "Shining Powder",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00009733.webp",
-                "amount": 10
-            },
-            {
-                "id": "6354",
-                "name": "Sinner's Blood",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00006354.webp",
-                "amount": 3
-            },
-            {
-                "id": "4805",
-                "name": "Powder of Time",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00004805.webp",
-                "amount": 5
-            },
-            {
-                "id": "5302",
-                "name": "Pure Powder Reagent",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.webp",
-                "amount": 10
-            },
-            {
-                "id": "5301",
-                "name": "Clear Liquid Reagent",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.webp",
-                "amount": 10
-            }
-        ],
-        "products": [
-            {
-                "id": "45265",
-                "name": " Imperfect Alchemy Stone of Life",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045265.webp",
-                "amount": 1
-            }
-        ]
-    },
-    {
-        "id": 340,
-        "name": "Sharp Spirit Stone of Destruction",
-        "icon": "/items/new_icon/03_etc/07_productmaterial/00045334.webp",
-        "grade": 2,
-        "process": "Alchemy",
-        "mastery": {
-            "name": "Master",
-            "level": 10
-        },
-        "exp": 0,
-        "materials": [
-            {
-                "id": "4924",
-                "name": "Mystical Spirit Powder",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00004924.webp",
-                "amount": 50
-            },
-            {
-                "id": "5305",
-                "name": "Flawless Spirit Stone",
-                "grade": 2,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00005305.webp",
-                "amount": 5
-            },
-            {
-                "id": "4076",
-                "name": "Metal Solvent",
-                "grade": 0,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00004076.webp",
-                "amount": 50
-            },
-            {
-                "id": "16080",
-                "name": "Cron Stone",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/00016080.webp",
-                "amount": 5
-            },
-            {
-                "id": "5306",
-                "name": "Reagent of Harmonious Spirits",
-                "grade": 2,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00005306.webp",
-                "amount": 1
-            }
-        ],
-        "products": [
-            {
-                "id": "45335",
-                "name": " Sharp Spirit Stone of Destruction",
-                "grade": 2,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045334.webp",
-                "amount": 1
-            },
-            {
-                "id": "45336",
-                "name": " Sharp Spirit Stone of Destruction",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045334.webp",
-                "amount": 1
-            },
-            {
-                "id": "45337",
-                "name": " Resplendent Spirit Stone of Destruction",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045337.webp",
-                "amount": 1
-            },
-            {
-                "id": "45338",
-                "name": " Splendid Spirit Stone of Destruction",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045338.webp",
-                "amount": 1
-            },
-            {
-                "id": "45339",
-                "name": " Shining Spirit Stone of Destruction",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045339.webp",
-                "amount": 1
-            },
-            {
-                "id": "45341",
-                "name": " Sharp Spirit Stone of Protection",
-                "grade": 2,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045340.webp",
-                "amount": 1
-            },
-            {
-                "id": "45342",
-                "name": " Sharp Spirit Stone of Protection",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045340.webp",
-                "amount": 1
-            },
-            {
-                "id": "45343",
-                "name": " Resplendent Spirit Stone of Protection",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045343.webp",
-                "amount": 1
-            },
-            {
-                "id": "45344",
-                "name": " Splendid Spirit Stone of Protection",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045344.webp",
-                "amount": 1
-            },
-            {
-                "id": "45345",
-                "name": " Shining Spirit Stone of Protection",
-                "grade": 3,
-                "type": "item",
-                "icon": "/items/new_icon/03_etc/07_productmaterial/00045345.webp",
-                "amount": 1
-            }
-        ]
-    },
-    {
         "id": 342,
         "name": "Tenacious Origin of Life",
         "icon": "/items/new_icon/03_etc/07_productmaterial/00005303.webp",
@@ -8329,9 +7993,9 @@
     },
     {
         "id": 345,
-        "name": "Sharp Spirit Stone of Destruction",
-        "icon": "/items/new_icon/03_etc/07_productmaterial/00045334.webp",
-        "grade": 1,
+        "name": "Shining Spirit Stone of Destruction",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00045339.webp",
+        "grade": 3,
         "process": "Alchemy",
         "mastery": {
             "name": "Skilled",
@@ -8433,9 +8097,9 @@
     },
     {
         "id": 346,
-        "name": "Guardian Spirit Stone",
-        "icon": "/items/new_icon/03_etc/07_productmaterial/00045299.webp",
-        "grade": 1,
+        "name": "Shining Spirit Stone of Protection",
+        "icon": "/items/new_icon/03_etc/07_productmaterial/00045345.webp",
+        "grade": 3,
         "process": "Alchemy",
         "mastery": {
             "name": "Skilled",
@@ -9236,18 +8900,18 @@
                 "amount": 30
             },
             {
-                "id": "56",
-                "name": "Blood 6",
+                "id": "6353",
+                "name": "Clown's Blood",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006353.webp",
                 "amount": 30
             },
             {
-                "id": "57",
-                "name": "Corals 2",
+                "id": "6506",
+                "name": "White Coral",
                 "grade": 0,
-                "type": "materialgroup",
+                "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006506.webp",
                 "amount": 10
             },
@@ -9275,7 +8939,7 @@
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/04_dropitem/00044332.webp",
-                "amount": 1
+                "amount": 13
             }
         ]
     },
@@ -10571,7 +10235,7 @@
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/00766005.webp",
-                "amount": 1
+                "amount": 12
             }
         ]
     },
@@ -10635,7 +10299,7 @@
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/00766025.webp",
-                "amount": 1
+                "amount": 12
             }
         ]
     },
@@ -10699,7 +10363,7 @@
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/00766035.webp",
-                "amount": 1
+                "amount": 12
             }
         ]
     },
@@ -10763,7 +10427,7 @@
                 "grade": 2,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/00766015.webp",
-                "amount": 1
+                "amount": 12
             }
         ]
     },
@@ -10891,6 +10555,262 @@
                 "grade": 0,
                 "type": "item",
                 "icon": "/items/new_icon/03_etc/07_productmaterial/00006183.webp",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": 464,
+        "name": "Purified Lightstone of Fire",
+        "icon": "/items/new_icon/03_etc/00766005.webp",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Guru",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766104",
+                "name": "Imperfect Lightstone of Fire",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766104.webp",
+                "amount": 1
+            },
+            {
+                "id": "766108",
+                "name": "Magical Lightstone Crystal",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766108.webp",
+                "amount": 10
+            },
+            {
+                "id": "16002",
+                "name": "Black Stone (Armor)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.webp",
+                "amount": 10
+            },
+            {
+                "id": "4802",
+                "name": "Powder of Flame",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004802.webp",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.webp",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766001",
+                "name": "Purified Lightstone of Fire",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766005.webp",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": 465,
+        "name": "Purified Lightstone of Earth",
+        "icon": "/items/new_icon/03_etc/00766025.webp",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Guru",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766105",
+                "name": "Imperfect Lightstone of Earth",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766105.webp",
+                "amount": 1
+            },
+            {
+                "id": "766108",
+                "name": "Magical Lightstone Crystal",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766108.webp",
+                "amount": 10
+            },
+            {
+                "id": "16001",
+                "name": "Black Stone (Weapon)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000008.webp",
+                "amount": 10
+            },
+            {
+                "id": "4804",
+                "name": "Powder of Earth",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004804.webp",
+                "amount": 50
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.webp",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766011",
+                "name": "Purified Lightstone of Earth",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766025.webp",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": 466,
+        "name": "Purified Lightstone of Wind",
+        "icon": "/items/new_icon/03_etc/00766035.webp",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Guru",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766106",
+                "name": "Imperfect Lightstone of Wind",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766106.webp",
+                "amount": 1
+            },
+            {
+                "id": "766108",
+                "name": "Magical Lightstone Crystal",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766108.webp",
+                "amount": 10
+            },
+            {
+                "id": "16002",
+                "name": "Black Stone (Armor)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.webp",
+                "amount": 10
+            },
+            {
+                "id": "4803",
+                "name": "Powder of Rifts",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004803.webp",
+                "amount": 50
+            },
+            {
+                "id": "5301",
+                "name": "Clear Liquid Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005301.webp",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766021",
+                "name": "Purified Lightstone of Wind",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766035.webp",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": 467,
+        "name": "Purified Lightstone of Flora",
+        "icon": "/items/new_icon/03_etc/00766015.webp",
+        "grade": 2,
+        "process": "Alchemy",
+        "mastery": {
+            "name": "Guru",
+            "level": 1
+        },
+        "exp": 0,
+        "materials": [
+            {
+                "id": "766107",
+                "name": "Imperfect Lightstone of Flora",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766107.webp",
+                "amount": 1
+            },
+            {
+                "id": "766108",
+                "name": "Magical Lightstone Crystal",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766108.webp",
+                "amount": 10
+            },
+            {
+                "id": "16002",
+                "name": "Black Stone (Armor)",
+                "grade": 4,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/11_enchant_material/00000007.webp",
+                "amount": 10
+            },
+            {
+                "id": "4805",
+                "name": "Powder of Time",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00004805.webp",
+                "amount": 50
+            },
+            {
+                "id": "5302",
+                "name": "Pure Powder Reagent",
+                "grade": 0,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/07_productmaterial/00005302.webp",
+                "amount": 50
+            }
+        ],
+        "products": [
+            {
+                "id": "766031",
+                "name": "Purified Lightstone of Flora",
+                "grade": 2,
+                "type": "item",
+                "icon": "/items/new_icon/03_etc/00766015.webp",
                 "amount": 12
             }
         ]
