@@ -1,0 +1,4033 @@
+{
+    "asia": {
+        "mon": [
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "01:30"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "01:30"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "muraka",
+                    "quint"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "offin"
+                ],
+                "time": "01:30"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kzarka"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "01:30"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "fri": [
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "01:30"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "01:30"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "muraka",
+                    "quint"
+                ],
+                "time": "20:00"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "01:30"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ]
+    },
+    "eu": {
+        "mon": [
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "offin"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "blackshadow"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "23:15"
+            }
+        ]
+    },
+    "mena": {
+        "mon": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "23:45"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "karanda",
+                    "offin"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kzarka"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "00:15"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kutum"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "23:45"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kzarka"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "19:00"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "00:15"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kutum"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:15"
+            }
+        ]
+    },
+    "jp": {
+        "mon": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "16:30"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "16:30"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "16:30"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "16:30"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "16:30"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "nouver",
+                    "kzarka"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "05:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "16:30"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "05:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "13:30"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "16:30"
+            }
+        ]
+    },
+    "kr": {
+        "mon": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "14:45"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "17:00"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:45"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "offin"
+                ],
+                "time": "17:00"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "14:15"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "15:15"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "17:00"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:45"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "17:00"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "14:45"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "17:00"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "15:15"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "17:00"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "14:45"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "17:00"
+            }
+        ]
+    },
+    "na": {
+        "mon": [
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "22:15"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "22:15"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "offin"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kzarka"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "22:15"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kzarka"
+                ],
+                "time": "22:15"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "22:15"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "blackshadow"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kzarka"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "22:15"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "21:15"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "kutum"
+                ],
+                "time": "22:15"
+            }
+        ]
+    },
+    "ru": {
+        "mon": [
+            {
+                "bosses": [
+                    "karanda",
+                    "kzarka"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "karanda"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "offin",
+                    "kzarka"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "18:00"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "01:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "22:15"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "23:00"
+            }
+        ]
+    },
+    "sea": {
+        "mon": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "15:15"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "15:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "offin"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "15:15"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "15:15"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "kutum"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "15:15"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "blackshadow"
+                ],
+                "time": "09:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "10:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "nouver",
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "15:15"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "17:30"
+            }
+        ]
+    },
+    "sa": {
+        "mon": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "19:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:30"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "19:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:30"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "19:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:30"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "19:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:30"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "19:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:30"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "19:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "20:00"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "02:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "19:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "23:30"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "23:45"
+            }
+        ]
+    },
+    "th": {
+        "mon": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "offin"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "karanda"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "kutum",
+                    "kzarka"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "kzarka"
+                ],
+                "time": "17:30"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "08:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "karanda"
+                ],
+                "time": "12:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "16:00"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "17:30"
+            }
+        ]
+    },
+    "tw": {
+        "mon": [
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "15:30"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "18:00"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "15:30"
+            },
+            {
+                "bosses": [
+                    "karanda"
+                ],
+                "time": "18:00"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "karanda"
+                ],
+                "time": "15:30"
+            },
+            {
+                "bosses": [
+                    "kutum"
+                ],
+                "time": "18:00"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "15:30"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "18:00"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "offin",
+                    "kutum"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "nouver",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "15:30"
+            },
+            {
+                "bosses": [
+                    "garmoth"
+                ],
+                "time": "16:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "18:00"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "karanda",
+                    "nouver"
+                ],
+                "time": "18:00"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "03:00"
+            },
+            {
+                "bosses": [
+                    "vell"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "15:30"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "16:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "kutum"
+                ],
+                "time": "18:00"
+            }
+        ]
+    },
+    "console_na": {
+        "mon": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "03:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "03:15"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "14:00"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "03:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "14:00"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "03:15"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "14:00"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "03:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "14:00"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "03:15"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "04:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "06:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "21:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "22:00"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "00:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "05:15"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "18:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "20:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "21:00"
+            }
+        ]
+    },
+    "console_eu": {
+        "mon": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "tue": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "wed": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "21:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "thu": [
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "fre": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "07:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "20:15"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "21:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "23:00"
+            }
+        ],
+        "sat": [
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "quint",
+                    "muraka"
+                ],
+                "time": "15:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "22:15"
+            }
+        ],
+        "sun": [
+            {
+                "bosses": [
+                    "kutum",
+                    "nouver"
+                ],
+                "time": "11:00"
+            },
+            {
+                "bosses": [
+                    "offin"
+                ],
+                "time": "13:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "14:00"
+            },
+            {
+                "bosses": [
+                    "kutum",
+                    "karanda"
+                ],
+                "time": "17:00"
+            },
+            {
+                "bosses": [
+                    "kzarka",
+                    "nouver"
+                ],
+                "time": "20:15"
+            }
+        ]
+    }
+}
